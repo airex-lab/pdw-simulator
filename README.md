@@ -23,12 +23,6 @@ The PDW Simulator allows users to input specific **scenarios** and produce Pulse
   
 ## Workflow
 
-```mermaid
-graph TD;
-    Input(Scenario) --> Simulator(PDW Simulator);
-    Simulator --> Output(Pulse Descriptor Words + "Truth");
-```
-
 1. **Input (Scenario):** Users define a scenario, including radar, sensor, and geometric properties.
 2. **PDW Simulator:** Processes the input and simulates radar pulses.
 3. **Output:** Generates PDWs along with corresponding ground truth for further analysis or model training.
