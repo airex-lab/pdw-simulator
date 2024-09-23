@@ -1,0 +1,44 @@
+scenario:
+  start_time: 0
+  end_time: 10
+  time_step: 1
+
+radars:
+  - name: Radar1
+    start_position: [0, 0]
+    velocity: [7.07, 7.07]
+    start_time: 0
+    rotation_period: 2.5
+    pri: 0.001
+    frequency: 9.4e9
+    pulse_width: 1e-6
+    power: 1000
+  - name: Radar2
+    start_position: [1000, 1000]
+    rotation_period: 3
+    pri: 0.002
+    frequency: 10e9
+    pulse_width: 2e-6
+    power: 1200
+
+sensors:
+  - name: Sensor1
+    start_position: [500, 500]
+    velocity: [-5, 0]
+    start_time: 2
+    detection_probability: 0.9
+    measurement_error:
+      amplitude: 0.1
+      toa: 1e-9
+      frequency: 1e6
+      pulse_width: 1e-8
+      aoa: 0.1
+  - name: Sensor2
+    start_position: [1500, 1500]
+    detection_probability: 0.95
+    measurement_error:
+      amplitude: 0.05
+      toa: 5e-10
+      frequency: 5e5
+      pulse_width: 5e-9
+      aoa: 0.05
