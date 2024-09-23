@@ -11,18 +11,37 @@ def create_error_model(error_config):
     :return: Function that generates errors based on the model
     """
     if error_config['type'] == 'constant':
-        return lambda t: error_config['error'] * ureg(error_config['error'].units)
+        error_value, error_unit = parse_value_and_unit(error_config['error'])
+        return lambda t: error_value * ureg(error_unit)
     elif error_config['type'] == 'linear':
-        return lambda t: (error_config['error'] + error_config['rate'] * t) * ureg(error_config['error'].units)
+        error_value, error_unit = parse_value_and_unit(error_config['error'])
+        rate_value, rate_unit = parse_value_and_unit(error_config['rate'])
+        return lambda t: (error_value + rate_value * t) * ureg(error_unit)
     elif error_config['type'] == 'sinus':
-        A = error_config['amplitude']
+        A, A_unit = parse_value_and_unit(error_config['amplitude'])
         f = error_config['frequency']
         phi0 = error_config['phase']
-        return lambda t: A * np.sin(2 * np.pi * f * t + phi0) * ureg(A.units)
+        return lambda t: A * np.sin(2 * np.pi * f * t + phi0) * ureg(A_unit)
     elif error_config['type'] == 'gaussian':
-        return lambda size: np.random.normal(0, error_config['error'], size) * ureg(error_config['error'].units)
+        error_value, error_unit = parse_value_and_unit(error_config['error'])
+        return lambda size: np.random.normal(0, error_value, size) * ureg(error_unit)
     else:
         raise ValueError(f"Unknown error type: {error_config['type']}")
+
+def parse_value_and_unit(string_value):
+    """
+    Parse a string containing a value and a unit.
+    
+    :param string_value: String containing value and unit (e.g., '0.1 dB')
+    :return: Tuple of (value, unit)
+    """
+    parts = string_value.split()
+    if len(parts) == 2:
+        return float(parts[0]), parts[1]
+    elif len(parts) == 1:
+        return float(parts[0]), ''
+    else:
+        raise ValueError(f"Invalid value and unit string: {string_value}")
 
 def detect_pulse(amplitude, detection_levels, detection_probabilities, saturation_level):
     """
