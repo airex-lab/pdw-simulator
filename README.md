@@ -23,6 +23,8 @@ The PDW Simulator allows users to input specific **scenarios** and produce Pulse
   
 ## Workflow
 
+
+=======
 ```mermaid
 graph TD;
     Input(Scenario) --> Simulator(PDW Simulator);

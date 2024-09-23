@@ -1,0 +1,147 @@
+scenario:
+  start_time: 0
+  end_time: 10
+  time_step: 1
+
+radars:
+  - name: Radar1
+    start_position: [0, 0]
+    velocity: [7.07, 7.07]
+    start_time: 0
+    rotation_type: 'constant'
+    rotation_params:
+      t0: 0
+      alpha0: 0
+      T_rot: 2.5
+    power: 1000
+    pri_type: 'fixed'
+    pri_params:
+      pri: 0.001
+    frequency_type: 'fixed'
+    frequency_params:
+      frequency: 9.4e9
+    pulse_width_type: 'fixed'
+    pulse_width_params:
+      pulse_width: 1e-6
+    lobe_pattern:
+      type: 'Sinc'
+      main_lobe_opening_angle: 5  # in degrees
+      radar_power_at_main_lobe: 0  # in dB
+      radar_power_at_back_lobe: -20  # in dB
+  - name: Radar2
+    start_position: [1000, 1000]
+    velocity: [0, 0]
+    start_time: 0
+    rotation_type: 'varying'
+    rotation_params:
+      t0: 0
+      alpha0: 0
+      T_rot: 3
+      A: 0.1
+      s: 0.5
+      phi0: 0
+    power: 1200
+    pri_type: 'stagger'
+    pri_params:
+      pri_pattern: [0.001, 0.0012, 0.0011, 0.0013]
+    frequency_type: 'stagger'
+    frequency_params:
+      frequency_pattern: [9.4e9, 9.5e9, 9.6e9]
+    pulse_width_type: 'fixed'
+    pulse_width_params:
+      pulse_width: 1.5e-6
+    lobe_pattern:
+      type: 'Sinc'
+      main_lobe_opening_angle: 10  # in degrees
+      radar_power_at_main_lobe: 0  # in dB
+      radar_power_at_back_lobe: -20  # in dB
+
+sensors:
+  - name: Sensor1
+    start_position: [500, 500]
+    velocity: [-5, 0]
+    start_time: 2
+    saturation_level: -70
+    detection_probability:
+      level: [-80, -90, -95, -100]  # dB
+      probability: [100, 80, 30, 5]  # %
+    amplitude_error:
+      systematic:
+        type: 'constant'
+        error: 0  # dB
+      arbitrary:
+        type: 'gaussian'
+        error: 0.1  # dB, standard deviation
+    toa_error:
+      systematic:
+        type: 'constant'
+        error: 0  # seconds
+      arbitrary:
+        type: 'gaussian'
+        error: 1e-9  # seconds, standard deviation
+    frequency_error:
+      systematic:
+        type: 'constant'
+        error: 0  # Hz
+      arbitrary:
+        type: 'gaussian'
+        error: 1e6  # Hz, standard deviation
+    pulse_width_error:
+      systematic:
+        type: 'constant'
+        error: 0  # seconds
+      arbitrary:
+        type: 'gaussian'
+        error: 1e-8  # seconds, standard deviation
+    aoa_error:
+      systematic:
+        type: 'constant'
+        error: 0  # degrees
+      arbitrary:
+        type: 'gaussian'
+        error: 0.1  # degrees, standard deviation
+
+  - name: Sensor2
+    start_position: [1500, 1500]
+    velocity: [0, 0]
+    start_time: 0
+    saturation_level: -70
+    detection_probability:
+      level: [-85, -90, -95, -100]  # dB
+      probability: [100, 80, 50, 10]  # %
+    amplitude_error:
+      systematic:
+        type: 'linear'
+        error: 0  # dB
+        rate: 0.1  # dB/s
+      arbitrary:
+        type: 'gaussian'
+        error: 0.02  # dB, standard deviation
+    toa_error:
+      systematic:
+        type: 'constant'
+        error: 0  # seconds
+      arbitrary:
+        type: 'gaussian'
+        error: 5e-10  # seconds, standard deviation
+    frequency_error:
+      systematic:
+        type: 'constant'
+        error: 0  # Hz
+      arbitrary:
+        type: 'gaussian'
+        error: 5e5  # Hz, standard deviation
+    pulse_width_error:
+      systematic:
+        type: 'constant'
+        error: 0  # seconds
+      arbitrary:
+        type: 'gaussian'
+        error: 5e-9  # seconds, standard deviation
+    aoa_error:
+      systematic:
+        type: 'constant'
+        error: 0  # degrees
+      arbitrary:
+        type: 'gaussian'
+        error: 0.05  # degrees, standard deviation
