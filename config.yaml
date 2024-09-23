@@ -1,147 +1,148 @@
 scenario:
-  start_time: 0
-  end_time: 10
-  time_step: 1
+  start_time: 0  # Start time of the simulation in seconds
+  end_time: 10   # End time of the simulation in seconds
+  time_step: 0.1 # Time step for simulation updates in seconds
 
 radars:
   - name: Radar1
-    start_position: [0, 0]
-    velocity: [7.07, 7.07]
-    start_time: 0
+    start_position: [0, 0]  # Initial position [x, y] in meters
+    velocity: [10, 10]      # Velocity [vx, vy] in meters per second
+    start_time: 0           # Start time for this radar in seconds
     rotation_type: 'constant'
     rotation_params:
-      t0: 0
-      alpha0: 0
-      T_rot: 2.5
-    power: 1000
+      t0: 0        # Initial time for rotation calculation
+      alpha0: 0    # Initial angle in radians
+      T_rot: 2.5   # Rotation period in seconds
+    power: 1000    # Radar power in watts
     pri_type: 'fixed'
     pri_params:
-      pri: 0.001
+      pri: 0.001   # Pulse Repetition Interval in seconds
     frequency_type: 'fixed'
     frequency_params:
-      frequency: 9.4e9
+      frequency: 9.4e9  # Frequency in Hz
     pulse_width_type: 'fixed'
     pulse_width_params:
-      pulse_width: 1e-6
+      pulse_width: 1e-6 # Pulse width in seconds
     lobe_pattern:
       type: 'Sinc'
       main_lobe_opening_angle: 5  # in degrees
-      radar_power_at_main_lobe: 0  # in dB
-      radar_power_at_back_lobe: -20  # in dB
+      radar_power_at_main_lobe: 0 # in dB
+      radar_power_at_back_lobe: -20 # in dB
+
   - name: Radar2
     start_position: [1000, 1000]
-    velocity: [0, 0]
+    velocity: [0, 0]  # Stationary radar
     start_time: 0
     rotation_type: 'varying'
     rotation_params:
       t0: 0
       alpha0: 0
-      T_rot: 3
-      A: 0.1
-      s: 0.5
-      phi0: 0
+      T_rot: 3    # Base rotation period in seconds
+      A: 0.1      # Amplitude of variation
+      s: 0.5      # Angular frequency of variation
+      phi0: 0     # Initial phase of variation
     power: 1200
     pri_type: 'stagger'
     pri_params:
-      pri_pattern: [0.001, 0.0012, 0.0011, 0.0013]
+      pri_pattern: [0.001, 0.0012, 0.0011, 0.0013]  # PRI pattern in seconds
     frequency_type: 'stagger'
     frequency_params:
-      frequency_pattern: [9.4e9, 9.5e9, 9.6e9]
+      frequency_pattern: [9.4e9, 9.5e9, 9.6e9]  # Frequency pattern in Hz
     pulse_width_type: 'fixed'
     pulse_width_params:
       pulse_width: 1.5e-6
     lobe_pattern:
       type: 'Sinc'
-      main_lobe_opening_angle: 10  # in degrees
-      radar_power_at_main_lobe: 0  # in dB
-      radar_power_at_back_lobe: -20  # in dB
+      main_lobe_opening_angle: 10
+      radar_power_at_main_lobe: 0
+      radar_power_at_back_lobe: -20
 
 sensors:
   - name: Sensor1
     start_position: [500, 500]
     velocity: [-5, 0]
     start_time: 2
-    saturation_level: -70
+    saturation_level: '-70 dB'
     detection_probability:
       level: [-80, -90, -95, -100]  # dB
-      probability: [100, 80, 30, 5]  # %
+      probability: [100, 80, 30, 5] # %
     amplitude_error:
       systematic:
         type: 'constant'
-        error: 0  # dB
+        error: '0 dB'
       arbitrary:
         type: 'gaussian'
-        error: 0.1  # dB, standard deviation
+        error: '0.1 dB'
     toa_error:
       systematic:
         type: 'constant'
-        error: 0  # seconds
+        error: '0 s'
       arbitrary:
         type: 'gaussian'
-        error: 1e-9  # seconds, standard deviation
+        error: '1e-9 s'
     frequency_error:
       systematic:
         type: 'constant'
-        error: 0  # Hz
+        error: '0 Hz'
       arbitrary:
         type: 'gaussian'
-        error: 1e6  # Hz, standard deviation
+        error: '1e6 Hz'
     pulse_width_error:
       systematic:
         type: 'constant'
-        error: 0  # seconds
+        error: '0 s'
       arbitrary:
         type: 'gaussian'
-        error: 1e-8  # seconds, standard deviation
+        error: '1e-8 s'
     aoa_error:
       systematic:
         type: 'constant'
-        error: 0  # degrees
+        error: '0 deg'
       arbitrary:
         type: 'gaussian'
-        error: 0.1  # degrees, standard deviation
+        error: '0.1 deg'
 
   - name: Sensor2
     start_position: [1500, 1500]
-    velocity: [0, 0]
+    velocity: [0, 0]  # Stationary sensor
     start_time: 0
-    saturation_level: -70
+    saturation_level: '-70 dB'
     detection_probability:
       level: [-85, -90, -95, -100]  # dB
-      probability: [100, 80, 50, 10]  # %
+      probability: [100, 80, 50, 10] # %
     amplitude_error:
       systematic:
         type: 'linear'
-        error: 0  # dB
-        rate: 0.1  # dB/s
+        error: '0 dB'
+        rate: '0.1 dB/s'
       arbitrary:
         type: 'gaussian'
-        error: 0.02  # dB, standard deviation
+        error: '0.02 dB'
     toa_error:
       systematic:
         type: 'constant'
-        error: 0  # seconds
+        error: '0 s'
       arbitrary:
         type: 'gaussian'
-        error: 5e-10  # seconds, standard deviation
+        error: '5e-10 s'
     frequency_error:
       systematic:
         type: 'constant'
-        error: 0  # Hz
+        error: '0 Hz'
       arbitrary:
         type: 'gaussian'
-        error: 5e5  # Hz, standard deviation
+        error: '5e5 Hz'
     pulse_width_error:
       systematic:
         type: 'constant'
-        error: 0  # seconds
+        error: '0 s'
       arbitrary:
         type: 'gaussian'
-        error: 5e-9  # seconds, standard deviation
+        error: '5e-9 s'
     aoa_error:
       systematic:
         type: 'constant'
-        error: 0  # degrees
+        error: '0 deg'
       arbitrary:
         type: 'gaussian'
-        error: 0.05  # degrees, standard deviation
+        error: '0.05 deg'
