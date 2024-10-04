@@ -16,12 +16,12 @@ def create_error_model(error_config):
     elif error_config['type'] == 'linear':
         error_value, error_unit = parse_value_and_unit(error_config['error'])
         rate_value, rate_unit = parse_value_and_unit(error_config['rate'])
-        return lambda t: (error_value + rate_value * t) * ureg(error_unit)
+        return lambda t: (error_value + rate_value * t.magnitude) * ureg(error_unit)
     elif error_config['type'] == 'sinus':
         A, A_unit = parse_value_and_unit(error_config['amplitude'])
         f = error_config['frequency']
         phi0 = error_config['phase']
-        return lambda t: A * np.sin(2 * np.pi * f * t + phi0) * ureg(A_unit)
+        return lambda t: A * np.sin(2 * np.pi * f * t.magnitude + phi0) * ureg(A_unit)
     elif error_config['type'] == 'gaussian':
         error_value, error_unit = parse_value_and_unit(error_config['error'])
         return lambda size: np.random.normal(0, error_value, size) * ureg(error_unit)

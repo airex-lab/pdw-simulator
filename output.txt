@@ -1,5 +1,84 @@
 Simulating time: 0 second
-measured_amplitude: -59.4427092973205 decibel, type: <class 'pint.Quantity'>
+measured_amplitude: -58.92269181989356 decibel, type: <class 'pint.Quantity'>
 true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
 PW_syst 0.0 second, type: <class 'float'>
-PW_arb: -9.262120711065356e-09 second, type: <class 'numpy.float64'>
+PW_arb: -2.17228794315846e-09 second, type: <class 'numpy.float64'>
+measured_amplitude: -68.92150559533084 decibel, type: <class 'pint.Quantity'>
+true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
+PW_syst 0.0 second, type: <class 'float'>
+PW_arb: 5.375404032771709e-09 second, type: <class 'numpy.float64'>
+Simulating time: 0.2 second
+Simulating time: 0.4 second
+measured_amplitude: -58.73448273845468 decibel, type: <class 'pint.Quantity'>
+true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
+PW_syst 0.0 second, type: <class 'float'>
+PW_arb: 2.9089406014338794e-09 second, type: <class 'numpy.float64'>
+measured_amplitude: -68.90137124581334 decibel, type: <class 'pint.Quantity'>
+true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
+PW_syst 0.0 second, type: <class 'float'>
+PW_arb: 2.0846471922725306e-09 second, type: <class 'numpy.float64'>
+Simulating time: 0.6 second
+Simulating time: 0.7999999999999999 second
+Simulating time: 0.9999999999999999 second
+Simulating time: 1.2 second
+measured_amplitude: -58.64120857880903 decibel, type: <class 'pint.Quantity'>
+true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
+PW_syst 0.0 second, type: <class 'float'>
+PW_arb: -1.922224853843916e-08 second, type: <class 'numpy.float64'>
+measured_amplitude: -68.73816317610755 decibel, type: <class 'pint.Quantity'>
+true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
+PW_syst 0.0 second, type: <class 'float'>
+PW_arb: 1.758418426370251e-09 second, type: <class 'numpy.float64'>
+Simulating time: 1.4000000000000001 second
+Simulating time: 1.6000000000000003 second
+Simulating time: 1.8000000000000005 second
+Simulating time: 2.0000000000000004 second
+Simulating time: 2.2000000000000006 second
+Simulating time: 2.400000000000001 second
+Simulating time: 2.600000000000001 second
+Simulating time: 2.800000000000001 second
+Simulating time: 3.0000000000000013 second
+Simulating time: 3.2000000000000015 second
+Simulating time: 3.4000000000000017 second
+Simulating time: 3.600000000000002 second
+Simulating time: 3.800000000000002 second
+Simulating time: 4.000000000000002 second
+Simulating time: 4.200000000000001 second
+Simulating time: 4.4 second
+measured_amplitude: -55.026539801862555 decibel, type: <class 'pint.Quantity'>
+true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
+PW_syst 0.0 second, type: <class 'float'>
+PW_arb: -9.588281026240956e-09 second, type: <class 'numpy.float64'>
+measured_amplitude: -68.25269604631879 decibel, type: <class 'pint.Quantity'>
+true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
+PW_syst 0.0 second, type: <class 'float'>
+PW_arb: -4.554288390574247e-09 second, type: <class 'numpy.float64'>
+Simulating time: 4.6 second
+Simulating time: 4.799999999999999 second
+Simulating time: 4.999999999999998 second
+Simulating time: 5.1999999999999975 second
+Simulating time: 5.399999999999997 second
+Simulating time: 5.599999999999996 second
+Simulating time: 5.799999999999995 second
+Simulating time: 5.999999999999995 second
+Simulating time: 6.199999999999994 second
+Simulating time: 6.399999999999993 second
+Simulating time: 6.5999999999999925 second
+Simulating time: 6.799999999999992 second
+Simulating time: 6.999999999999991 second
+Simulating time: 7.19999999999999 second
+Simulating time: 7.39999999999999 second
+Simulating time: 7.599999999999989 second
+Simulating time: 7.799999999999988 second
+Simulating time: 7.999999999999988 second
+Simulating time: 8.199999999999987 second
+Simulating time: 8.399999999999986 second
+Simulating time: 8.599999999999985 second
+Simulating time: 8.799999999999985 second
+Simulating time: 8.999999999999984 second
+Simulating time: 9.199999999999983 second
+Simulating time: 9.399999999999983 second
+Simulating time: 9.599999999999982 second
+Simulating time: 9.799999999999981 second
+Simulating time: 9.99999999999998 second
+Simulation complete. PDW data written to pdw_output.csv

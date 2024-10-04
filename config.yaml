@@ -69,7 +69,7 @@ sensors:
     amplitude_error:
       systematic:
         type: 'constant'
-        error: '0 dB'
+        error: '0.5 dB'
       arbitrary:
         type: 'gaussian'
         error: '0.1 dB'
