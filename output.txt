@@ -1,0 +1,5 @@
+Simulating time: 0 second
+measured_amplitude: -59.4427092973205 decibel, type: <class 'pint.Quantity'>
+true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
+PW_syst 0.0 second, type: <class 'float'>
+PW_arb: -9.262120711065356e-09 second, type: <class 'numpy.float64'>
