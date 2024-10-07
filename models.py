@@ -70,7 +70,7 @@ class Radar:
         """
         if self.pulse_times is None:
             return None
-        next_pulse_index = np.searchsorted(self.pulse_times, current_time.magnitude)
+        next_pulse_index = np.searchsorted(self.pulse_times, current_time.magnitude, side='left')
         if next_pulse_index < len(self.pulse_times):
             return self.pulse_times[next_pulse_index] * ureg.second
         return None
@@ -168,6 +168,7 @@ class Radar:
                 self.start_position.magnitude, end_time.magnitude, time_step.magnitude)
             
         self.calculate_pulse_times(end_time)
+        print(f"Initialized {self.name} with {len(self.pulse_times)} pulse times")
         self.calculate_frequencies(end_time)
         self.calculate_pulse_widths(end_time)
         

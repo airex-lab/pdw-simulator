@@ -22,7 +22,7 @@ radars:
       frequency: 9.4e9  # Frequency in Hz
     pulse_width_type: 'fixed'
     pulse_width_params:
-      pulse_width: 1e-6 # Pulse width in seconds
+      pulse_width: 1.2e-6 # Pulse width in seconds
     lobe_pattern:
       type: 'Sinc'
       main_lobe_opening_angle: 5  # in degrees
@@ -33,7 +33,7 @@ radars:
     start_position: [1000, 1000]
     velocity: [0, 0]  # Stationary radar
     start_time: 0
-    rotation_type: 'varying'
+    rotation_type: 'constant'
     rotation_params:
       t0: 0
       alpha0: 0
@@ -41,21 +41,21 @@ radars:
       A: 0.1      # Amplitude of variation
       s: 0.5      # Angular frequency of variation
       phi0: 0     # Initial phase of variation
-    power: 1200
+    power: 1000
     pri_type: 'stagger'
     pri_params:
       pri_pattern: [0.001, 0.0012, 0.0011, 0.0013]  # PRI pattern in seconds
-    frequency_type: 'stagger'
+    frequency_type: 'fixed'
     frequency_params:
-      frequency_pattern: [9.4e9, 9.5e9, 9.6e9]  # Frequency pattern in Hz
+      frequency: 9.4e9  # Frequency in Hz
     pulse_width_type: 'fixed'
     pulse_width_params:
-      pulse_width: 1.5e-6
+      pulse_width: 1.8e-6 # Pulse width in seconds
     lobe_pattern:
       type: 'Sinc'
-      main_lobe_opening_angle: 10
-      radar_power_at_main_lobe: 0
-      radar_power_at_back_lobe: -20
+      main_lobe_opening_angle: 5  # in degrees
+      radar_power_at_main_lobe: 0 # in dB
+      radar_power_at_back_lobe: -20 # in dB
 
 sensors:
   - name: Sensor1
