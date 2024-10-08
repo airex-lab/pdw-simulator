@@ -2,697 +2,1267 @@ Initialized Radar1 with 10000 pulse times
 Added Radar1 to scenario
 Initialized Radar2 with 8696 pulse times
 Added Radar2 to scenario
+Initialized Radar3 with 9998 pulse times
+Added Radar3 to scenario
+Initialized Radar4 with 9092 pulse times
+Added Radar4 to scenario
 Simulating time: 0 second
 Next pulse time for Radar1: 0.1 second
-measured_amplitude: -58.8376115671733 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 6.309726948891527e-09 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -59.31904632301315 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 0.10120000000000005 second
 No pulse generated for Radar2 at 0.1 second
+Next pulse time for Radar3: 0.10064108653751923 second
+No pulse generated for Radar3 at 0.1 second
+Next pulse time for Radar4: 0.10079999999999995 second
+No pulse generated for Radar4 at 0.1 second
 Next pulse time for Radar1: 0.1 second
-measured_amplitude: -68.91116191209831 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 2.503183830341013e-10 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -68.9550069450962 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 0.10120000000000005 second
 No pulse generated for Radar2 at 0.1 second
+Next pulse time for Radar3: 0.10064108653751923 second
+No pulse generated for Radar3 at 0.1 second
+Next pulse time for Radar4: 0.10079999999999995 second
+No pulse generated for Radar4 at 0.1 second
 Simulating time: 0.2 second
 Next pulse time for Radar1: 0.301 second
 No pulse generated for Radar1 at 0.30000000000000004 second
 Next pulse time for Radar2: 0.3011999999999998 second
 No pulse generated for Radar2 at 0.30000000000000004 second
+Next pulse time for Radar3: 0.30054998649670955 second
+No pulse generated for Radar3 at 0.30000000000000004 second
+Next pulse time for Radar4: 0.30080000000000023 second
+No pulse generated for Radar4 at 0.30000000000000004 second
 Next pulse time for Radar1: 0.301 second
 No pulse generated for Radar1 at 0.30000000000000004 second
 Next pulse time for Radar2: 0.3011999999999998 second
 No pulse generated for Radar2 at 0.30000000000000004 second
+Next pulse time for Radar3: 0.30054998649670955 second
+No pulse generated for Radar3 at 0.30000000000000004 second
+Next pulse time for Radar4: 0.30080000000000023 second
+No pulse generated for Radar4 at 0.30000000000000004 second
 Simulating time: 0.4 second
 Next pulse time for Radar1: 0.5 second
-measured_amplitude: -58.88832888169804 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 1.4139994652388739e-08 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -59.728296272080215 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 0.5000999999999995 second
-measured_amplitude: -69.0432815684093 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: -5.197816394733213e-09 second, type: <class 'numpy.float64'>
+theta: -2.356194490192345
+theta_ml: 0.06981317007977318
+x: -8.975725545153566
+1.5e-06
+measured_amplitude: -88.62897248023519 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar3: 0.5003915953902682 second
+No pulse generated for Radar3 at 0.5 second
+Next pulse time for Radar4: 0.5010000000000018 second
+No pulse generated for Radar4 at 0.5 second
 Next pulse time for Radar1: 0.5 second
-measured_amplitude: -68.88111743072606 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 9.30209845259597e-10 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -68.90936618062558 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 0.5000999999999995 second
-measured_amplitude: -59.369181876692586 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: -1.165027041855646e-09 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.06981317007977318
+x: 8.975725545153564
+1.5e-06
+measured_amplitude: -77.49064279828688 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar3: 0.5003915953902682 second
+No pulse generated for Radar3 at 0.5 second
+Next pulse time for Radar4: 0.5010000000000018 second
+No pulse generated for Radar4 at 0.5 second
 Simulating time: 0.6 second
 Next pulse time for Radar1: 0.7000000000000001 second
-measured_amplitude: -58.745001205334134 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 1.900384081142677e-08 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -60.648338067247316 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 0.7001999999999968 second
 No pulse generated for Radar2 at 0.7 second
+Next pulse time for Radar3: 0.7002565441208819 second
+No pulse generated for Radar3 at 0.7 second
+Next pulse time for Radar4: 0.7002999999999999 second
+No pulse generated for Radar4 at 0.7 second
 Next pulse time for Radar1: 0.7000000000000001 second
-measured_amplitude: -68.827174557306 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 5.323046906188245e-10 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -68.87280483951209 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 0.7001999999999968 second
 No pulse generated for Radar2 at 0.7 second
+Next pulse time for Radar3: 0.7002565441208819 second
+No pulse generated for Radar3 at 0.7 second
+Next pulse time for Radar4: 0.7002999999999999 second
+No pulse generated for Radar4 at 0.7 second
 Simulating time: 0.7999999999999999 second
 Next pulse time for Radar1: 0.9 second
-measured_amplitude: -58.62590441374074 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: -2.402153995304765e-08 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -58.46346322975192 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 0.9002999999999941 second
 No pulse generated for Radar2 at 0.8999999999999999 second
+Next pulse time for Radar3: 0.9005370268973112 second
+No pulse generated for Radar3 at 0.8999999999999999 second
+Next pulse time for Radar4: 0.900899999999998 second
+No pulse generated for Radar4 at 0.8999999999999999 second
 Next pulse time for Radar1: 0.9 second
-measured_amplitude: -68.83917956356673 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 7.262967342167727e-11 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -68.87335039794074 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 0.9002999999999941 second
 No pulse generated for Radar2 at 0.8999999999999999 second
+Next pulse time for Radar3: 0.9005370268973112 second
+No pulse generated for Radar3 at 0.8999999999999999 second
+Next pulse time for Radar4: 0.900899999999998 second
+No pulse generated for Radar4 at 0.8999999999999999 second
 Simulating time: 0.9999999999999999 second
 Next pulse time for Radar1: 1.1 second
-measured_amplitude: -58.66100154028504 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 2.2318166901938197e-08 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -59.431586952305665 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 1.1003999999999963 second
 No pulse generated for Radar2 at 1.0999999999999999 second
+Next pulse time for Radar3: 1.1008347042959643 second
+No pulse generated for Radar3 at 1.0999999999999999 second
+Next pulse time for Radar4: 1.1006999999999993 second
+No pulse generated for Radar4 at 1.0999999999999999 second
 Next pulse time for Radar1: 1.1 second
-measured_amplitude: -68.78373532801417 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 3.827143384793464e-09 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -68.83831653586557 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 1.1003999999999963 second
 No pulse generated for Radar2 at 1.0999999999999999 second
+Next pulse time for Radar3: 1.1008347042959643 second
+No pulse generated for Radar3 at 1.0999999999999999 second
+Next pulse time for Radar4: 1.1006999999999993 second
+No pulse generated for Radar4 at 1.0999999999999999 second
 Simulating time: 1.2 second
 Next pulse time for Radar1: 1.3 second
-measured_amplitude: -58.69976266128676 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 2.354767963108386e-09 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -58.5545345106983 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 1.3005000000000033 second
 No pulse generated for Radar2 at 1.3 second
+Next pulse time for Radar3: 1.3006478527505114 second
+No pulse generated for Radar3 at 1.3 second
+Next pulse time for Radar4: 1.3007000000000042 second
+No pulse generated for Radar4 at 1.3 second
 Next pulse time for Radar1: 1.3 second
-measured_amplitude: -68.72031599687122 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 6.219138882964156e-09 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -68.82006157818371 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 1.3005000000000033 second
 No pulse generated for Radar2 at 1.3 second
+Next pulse time for Radar3: 1.3006478527505114 second
+No pulse generated for Radar3 at 1.3 second
+Next pulse time for Radar4: 1.3007000000000042 second
+No pulse generated for Radar4 at 1.3 second
 Simulating time: 1.4000000000000001 second
 Next pulse time for Radar1: 1.5010000000000001 second
 No pulse generated for Radar1 at 1.5000000000000002 second
 Next pulse time for Radar2: 1.5006000000000101 second
 No pulse generated for Radar2 at 1.5000000000000002 second
+Next pulse time for Radar3: 1.5003686449726519 second
+No pulse generated for Radar3 at 1.5000000000000002 second
+Next pulse time for Radar4: 1.5009000000000092 second
+No pulse generated for Radar4 at 1.5000000000000002 second
 Next pulse time for Radar1: 1.5010000000000001 second
 No pulse generated for Radar1 at 1.5000000000000002 second
 Next pulse time for Radar2: 1.5006000000000101 second
 No pulse generated for Radar2 at 1.5000000000000002 second
+Next pulse time for Radar3: 1.5003686449726519 second
+No pulse generated for Radar3 at 1.5000000000000002 second
+Next pulse time for Radar4: 1.5009000000000092 second
+No pulse generated for Radar4 at 1.5000000000000002 second
 Simulating time: 1.6000000000000003 second
 Next pulse time for Radar1: 1.701 second
 No pulse generated for Radar1 at 1.7000000000000004 second
 Next pulse time for Radar2: 1.7007000000000172 second
 No pulse generated for Radar2 at 1.7000000000000004 second
+Next pulse time for Radar3: 1.7001832263382275 second
+No pulse generated for Radar3 at 1.7000000000000004 second
+Next pulse time for Radar4: 1.7002000000000141 second
+No pulse generated for Radar4 at 1.7000000000000004 second
 Next pulse time for Radar1: 1.701 second
 No pulse generated for Radar1 at 1.7000000000000004 second
 Next pulse time for Radar2: 1.7007000000000172 second
 No pulse generated for Radar2 at 1.7000000000000004 second
+Next pulse time for Radar3: 1.7001832263382275 second
+No pulse generated for Radar3 at 1.7000000000000004 second
+Next pulse time for Radar4: 1.7002000000000141 second
+No pulse generated for Radar4 at 1.7000000000000004 second
 Simulating time: 1.8000000000000005 second
 Next pulse time for Radar1: 1.901 second
 No pulse generated for Radar1 at 1.9000000000000006 second
 Next pulse time for Radar2: 1.900800000000024 second
 No pulse generated for Radar2 at 1.9000000000000006 second
+Next pulse time for Radar3: 1.900027985773935 second
+theta: 0.0
+theta_ml: 0.10471975511965978
+x: 0.0
+1.2e-06
+measured_amplitude: -9.743911910830533 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar4: 1.9008000000000191 second
+No pulse generated for Radar4 at 1.9000000000000006 second
 Next pulse time for Radar1: 1.901 second
 No pulse generated for Radar1 at 1.9000000000000006 second
 Next pulse time for Radar2: 1.900800000000024 second
 No pulse generated for Radar2 at 1.9000000000000006 second
+Next pulse time for Radar3: 1.900027985773935 second
+theta: 0.4636476090008061
+theta_ml: 0.10471975511965978
+x: 3.7854591189053166
+1.2e-06
+measured_amplitude: -62.85063396766197 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar4: 1.9008000000000191 second
+No pulse generated for Radar4 at 1.9000000000000006 second
 Simulating time: 2.0000000000000004 second
 Next pulse time for Radar1: 2.101 second
 No pulse generated for Radar1 at 2.1000000000000005 second
 Next pulse time for Radar2: 2.100900000000026 second
 No pulse generated for Radar2 at 2.1000000000000005 second
+Next pulse time for Radar3: 2.1003437988397144 second
+No pulse generated for Radar3 at 2.1000000000000005 second
+Next pulse time for Radar4: 2.1006000000000307 second
+No pulse generated for Radar4 at 2.1000000000000005 second
 Next pulse time for Radar1: 2.101 second
 No pulse generated for Radar1 at 2.1000000000000005 second
 Next pulse time for Radar2: 2.100900000000026 second
 No pulse generated for Radar2 at 2.1000000000000005 second
+Next pulse time for Radar3: 2.1003437988397144 second
+No pulse generated for Radar3 at 2.1000000000000005 second
+Next pulse time for Radar4: 2.1006000000000307 second
+No pulse generated for Radar4 at 2.1000000000000005 second
 Simulating time: 2.2000000000000006 second
 Next pulse time for Radar1: 2.301 second
 No pulse generated for Radar1 at 2.3000000000000007 second
 Next pulse time for Radar2: 2.3000000000000234 second
-measured_amplitude: -69.54269141088918 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 1.479279146857473e-08 second, type: <class 'numpy.float64'>
+theta: -2.358190495525653
+theta_ml: 0.06981317007977318
+x: -8.95779208118449
+1.5e-06
+measured_amplitude: -84.87609520622202 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar3: 2.300418170250718 second
+No pulse generated for Radar3 at 2.3000000000000007 second
+Next pulse time for Radar4: 2.300600000000049 second
+No pulse generated for Radar4 at 2.3000000000000007 second
 Next pulse time for Radar1: 2.301 second
 No pulse generated for Radar1 at 2.3000000000000007 second
 Next pulse time for Radar2: 2.3000000000000234 second
-measured_amplitude: -59.2062782254794 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 4.603680341523844e-09 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.06981317007977318
+x: 8.975725545153564
+1.5e-06
+measured_amplitude: -77.34513381955323 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar3: 2.300418170250718 second
+No pulse generated for Radar3 at 2.3000000000000007 second
+Next pulse time for Radar4: 2.300600000000049 second
+No pulse generated for Radar4 at 2.3000000000000007 second
 Simulating time: 2.400000000000001 second
 Next pulse time for Radar1: 2.501 second
 No pulse generated for Radar1 at 2.500000000000001 second
 Next pulse time for Radar2: 2.5000000000000204 second
-measured_amplitude: -70.06507353546095 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 6.21453986930283e-10 second, type: <class 'numpy.float64'>
+theta: -2.3591855081921516
+theta_ml: 0.06981317007977318
+x: -8.948838879278549
+1.5e-06
+measured_amplitude: -82.55655832384173 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar3: 2.500464212260034 second
+No pulse generated for Radar3 at 2.500000000000001 second
+Next pulse time for Radar4: 2.5008000000000674 second
+No pulse generated for Radar4 at 2.500000000000001 second
 Next pulse time for Radar1: 2.501 second
 No pulse generated for Radar1 at 2.500000000000001 second
 Next pulse time for Radar2: 2.5000000000000204 second
-measured_amplitude: -59.16481864583244 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 9.51925872588183e-10 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.06981317007977318
+x: 8.975725545153564
+1.5e-06
+measured_amplitude: -77.2901561069903 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar3: 2.500464212260034 second
+No pulse generated for Radar3 at 2.500000000000001 second
+Next pulse time for Radar4: 2.5008000000000674 second
+No pulse generated for Radar4 at 2.500000000000001 second
 Simulating time: 2.600000000000001 second
 Next pulse time for Radar1: 2.701 second
 No pulse generated for Radar1 at 2.700000000000001 second
 Next pulse time for Radar2: 2.700200000000018 second
 No pulse generated for Radar2 at 2.700000000000001 second
+Next pulse time for Radar3: 2.7002326210653247 second
+No pulse generated for Radar3 at 2.700000000000001 second
+Next pulse time for Radar4: 2.7001000000000857 second
+No pulse generated for Radar4 at 2.700000000000001 second
 Next pulse time for Radar1: 2.701 second
 No pulse generated for Radar1 at 2.700000000000001 second
 Next pulse time for Radar2: 2.700200000000018 second
 No pulse generated for Radar2 at 2.700000000000001 second
+Next pulse time for Radar3: 2.7002326210653247 second
+No pulse generated for Radar3 at 2.700000000000001 second
+Next pulse time for Radar4: 2.7001000000000857 second
+No pulse generated for Radar4 at 2.700000000000001 second
 Simulating time: 2.800000000000001 second
 Next pulse time for Radar1: 2.9010000000000002 second
 No pulse generated for Radar1 at 2.9000000000000012 second
 Next pulse time for Radar2: 2.900200000000015 second
 No pulse generated for Radar2 at 2.9000000000000012 second
+Next pulse time for Radar3: 2.9008580667598682 second
+No pulse generated for Radar3 at 2.9000000000000012 second
+Next pulse time for Radar4: 2.900700000000104 second
+No pulse generated for Radar4 at 2.9000000000000012 second
 Next pulse time for Radar1: 2.9010000000000002 second
 No pulse generated for Radar1 at 2.9000000000000012 second
 Next pulse time for Radar2: 2.900200000000015 second
 No pulse generated for Radar2 at 2.9000000000000012 second
+Next pulse time for Radar3: 2.9008580667598682 second
+No pulse generated for Radar3 at 2.9000000000000012 second
+Next pulse time for Radar4: 2.900700000000104 second
+No pulse generated for Radar4 at 2.9000000000000012 second
 Simulating time: 3.0000000000000013 second
 Next pulse time for Radar1: 3.101 second
 No pulse generated for Radar1 at 3.1000000000000014 second
 Next pulse time for Radar2: 3.1004000000000125 second
 No pulse generated for Radar2 at 3.1000000000000014 second
+Next pulse time for Radar3: 3.1005195199772433 second
+No pulse generated for Radar3 at 3.1000000000000014 second
+Next pulse time for Radar4: 3.1005000000001224 second
+No pulse generated for Radar4 at 3.1000000000000014 second
 Next pulse time for Radar1: 3.101 second
 No pulse generated for Radar1 at 3.1000000000000014 second
 Next pulse time for Radar2: 3.1004000000000125 second
 No pulse generated for Radar2 at 3.1000000000000014 second
+Next pulse time for Radar3: 3.1005195199772433 second
+No pulse generated for Radar3 at 3.1000000000000014 second
+Next pulse time for Radar4: 3.1005000000001224 second
+No pulse generated for Radar4 at 3.1000000000000014 second
 Simulating time: 3.2000000000000015 second
 Next pulse time for Radar1: 3.301 second
 No pulse generated for Radar1 at 3.3000000000000016 second
 Next pulse time for Radar2: 3.3004000000000095 second
 No pulse generated for Radar2 at 3.3000000000000016 second
+Next pulse time for Radar3: 3.300402274894682 second
+No pulse generated for Radar3 at 3.3000000000000016 second
+Next pulse time for Radar4: 3.3005000000001408 second
+No pulse generated for Radar4 at 3.3000000000000016 second
 Next pulse time for Radar1: 3.301 second
 No pulse generated for Radar1 at 3.3000000000000016 second
 Next pulse time for Radar2: 3.3004000000000095 second
 No pulse generated for Radar2 at 3.3000000000000016 second
+Next pulse time for Radar3: 3.300402274894682 second
+No pulse generated for Radar3 at 3.3000000000000016 second
+Next pulse time for Radar4: 3.3005000000001408 second
+No pulse generated for Radar4 at 3.3000000000000016 second
 Simulating time: 3.4000000000000017 second
 Next pulse time for Radar1: 3.501 second
 No pulse generated for Radar1 at 3.5000000000000018 second
 Next pulse time for Radar2: 3.500600000000007 second
 No pulse generated for Radar2 at 3.5000000000000018 second
+Next pulse time for Radar3: 3.500385068999322 second
+No pulse generated for Radar3 at 3.5000000000000018 second
+Next pulse time for Radar4: 3.500700000000159 second
+No pulse generated for Radar4 at 3.5000000000000018 second
 Next pulse time for Radar1: 3.501 second
 No pulse generated for Radar1 at 3.5000000000000018 second
 Next pulse time for Radar2: 3.500600000000007 second
 No pulse generated for Radar2 at 3.5000000000000018 second
+Next pulse time for Radar3: 3.500385068999322 second
+No pulse generated for Radar3 at 3.5000000000000018 second
+Next pulse time for Radar4: 3.500700000000159 second
+No pulse generated for Radar4 at 3.5000000000000018 second
 Simulating time: 3.600000000000002 second
 Next pulse time for Radar1: 3.701 second
 No pulse generated for Radar1 at 3.700000000000002 second
 Next pulse time for Radar2: 3.700600000000004 second
 No pulse generated for Radar2 at 3.700000000000002 second
+Next pulse time for Radar3: 3.7002894072831687 second
+No pulse generated for Radar3 at 3.700000000000002 second
+Next pulse time for Radar4: 3.7000000000001774 second
+theta: 1.9393933492713291
+theta_ml: 0.061086523819801536
+x: 13.53194098165722
+1.8e-06
+measured_amplitude: -65.53819425435978 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 3.701 second
 No pulse generated for Radar1 at 3.700000000000002 second
 Next pulse time for Radar2: 3.700600000000004 second
 No pulse generated for Radar2 at 3.700000000000002 second
+Next pulse time for Radar3: 3.7002894072831687 second
+No pulse generated for Radar3 at 3.700000000000002 second
+Next pulse time for Radar4: 3.7000000000001774 second
+theta: 1.1999050379822342
+theta_ml: 0.061086523819801536
+x: 13.519913908578646
+1.8e-06
+measured_amplitude: -67.51980263258964 decibel, type: <class 'pint.Quantity'>
 Simulating time: 3.800000000000002 second
 Next pulse time for Radar1: 3.9010000000000002 second
 No pulse generated for Radar1 at 3.900000000000002 second
 Next pulse time for Radar2: 3.9008000000000016 second
 No pulse generated for Radar2 at 3.900000000000002 second
+Next pulse time for Radar3: 3.9001482624485346 second
+No pulse generated for Radar3 at 3.900000000000002 second
+Next pulse time for Radar4: 3.9006000000001957 second
+No pulse generated for Radar4 at 3.900000000000002 second
 Next pulse time for Radar1: 3.9010000000000002 second
 No pulse generated for Radar1 at 3.900000000000002 second
 Next pulse time for Radar2: 3.9008000000000016 second
 No pulse generated for Radar2 at 3.900000000000002 second
+Next pulse time for Radar3: 3.9001482624485346 second
+No pulse generated for Radar3 at 3.900000000000002 second
+Next pulse time for Radar4: 3.9006000000001957 second
+No pulse generated for Radar4 at 3.900000000000002 second
 Simulating time: 4.000000000000002 second
 Next pulse time for Radar1: 4.101 second
 No pulse generated for Radar1 at 4.100000000000001 second
 Next pulse time for Radar2: 4.100799999999999 second
 No pulse generated for Radar2 at 4.100000000000001 second
+Next pulse time for Radar3: 4.1004020339197265 second
+No pulse generated for Radar3 at 4.100000000000001 second
+Next pulse time for Radar4: 4.100400000000187 second
+No pulse generated for Radar4 at 4.100000000000001 second
 Next pulse time for Radar1: 4.101 second
 No pulse generated for Radar1 at 4.100000000000001 second
 Next pulse time for Radar2: 4.100799999999999 second
 No pulse generated for Radar2 at 4.100000000000001 second
+Next pulse time for Radar3: 4.1004020339197265 second
+No pulse generated for Radar3 at 4.100000000000001 second
+Next pulse time for Radar4: 4.100400000000187 second
+No pulse generated for Radar4 at 4.100000000000001 second
 Simulating time: 4.200000000000001 second
 Next pulse time for Radar1: 4.301 second
 No pulse generated for Radar1 at 4.300000000000001 second
 Next pulse time for Radar2: 4.300999999999996 second
 No pulse generated for Radar2 at 4.300000000000001 second
+Next pulse time for Radar3: 4.300553534666496 second
+No pulse generated for Radar3 at 4.300000000000001 second
+Next pulse time for Radar4: 4.300400000000152 second
+No pulse generated for Radar4 at 4.300000000000001 second
 Next pulse time for Radar1: 4.301 second
 No pulse generated for Radar1 at 4.300000000000001 second
 Next pulse time for Radar2: 4.300999999999996 second
 No pulse generated for Radar2 at 4.300000000000001 second
+Next pulse time for Radar3: 4.300553534666496 second
+No pulse generated for Radar3 at 4.300000000000001 second
+Next pulse time for Radar4: 4.300400000000152 second
+No pulse generated for Radar4 at 4.300000000000001 second
 Simulating time: 4.4 second
 Next pulse time for Radar1: 4.5 second
-measured_amplitude: -55.020895507618675 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: -8.60071638489374e-09 second, type: <class 'numpy.float64'>
+theta: 0.7980557152315003
+theta_ml: 0.08726646259971647
+x: 7.271722071542551
+1.2e-06
+measured_amplitude: -56.62686314167535 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 4.500999999999993 second
 No pulse generated for Radar2 at 4.5 second
+Next pulse time for Radar3: 4.500480567894964 second
+No pulse generated for Radar3 at 4.5 second
+Next pulse time for Radar4: 4.500600000000117 second
+No pulse generated for Radar4 at 4.5 second
 Next pulse time for Radar1: 4.5 second
-measured_amplitude: -68.2340306307342 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: -3.425412205203897e-10 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -68.50681949021084 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 4.500999999999993 second
 No pulse generated for Radar2 at 4.5 second
+Next pulse time for Radar3: 4.500480567894964 second
+No pulse generated for Radar3 at 4.5 second
+Next pulse time for Radar4: 4.500600000000117 second
+No pulse generated for Radar4 at 4.5 second
 Simulating time: 4.6 second
 Next pulse time for Radar1: 4.7 second
-measured_amplitude: -54.712403007141184 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: -5.104914692444997e-09 second, type: <class 'numpy.float64'>
+theta: 0.799082053280561
+theta_ml: 0.08726646259971647
+x: 7.278994904277319
+1.2e-06
+measured_amplitude: -57.661942933948986 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 4.70119999999999 second
 No pulse generated for Radar2 at 4.699999999999999 second
+Next pulse time for Radar3: 4.700074069983207 second
+theta: 0.0
+theta_ml: 0.10471975511965978
+x: 0.0
+1.2e-06
+measured_amplitude: -10.228450784814408 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar4: 4.701200000000081 second
+No pulse generated for Radar4 at 4.699999999999999 second
 Next pulse time for Radar1: 4.7 second
-measured_amplitude: -68.23772104295992 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: -8.433355539733437e-10 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -68.43135966129164 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 4.70119999999999 second
 No pulse generated for Radar2 at 4.699999999999999 second
+Next pulse time for Radar3: 4.700074069983207 second
+theta: 0.4636476090008061
+theta_ml: 0.10471975511965978
+x: 3.7854591189053166
+1.2e-06
+measured_amplitude: -62.55305303613272 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar4: 4.701200000000081 second
+No pulse generated for Radar4 at 4.699999999999999 second
 Simulating time: 4.799999999999999 second
 Next pulse time for Radar1: 4.9 second
-measured_amplitude: -54.62641595368843 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: -7.98678184476681e-09 second, type: <class 'numpy.float64'>
+theta: 0.8001104452887902
+theta_ml: 0.08726646259971647
+x: 7.286274601259704
+1.2e-06
+measured_amplitude: -57.401578083785466 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 4.901199999999988 second
 No pulse generated for Radar2 at 4.899999999999999 second
+Next pulse time for Radar3: 4.900492499048234 second
+No pulse generated for Radar3 at 4.899999999999999 second
+Next pulse time for Radar4: 4.900500000000045 second
+No pulse generated for Radar4 at 4.899999999999999 second
 Next pulse time for Radar1: 4.9 second
-measured_amplitude: -68.17920203513772 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 6.465802092402351e-10 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -68.43686146993308 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 4.901199999999988 second
 No pulse generated for Radar2 at 4.899999999999999 second
+Next pulse time for Radar3: 4.900492499048234 second
+No pulse generated for Radar3 at 4.899999999999999 second
+Next pulse time for Radar4: 4.900500000000045 second
+No pulse generated for Radar4 at 4.899999999999999 second
 Simulating time: 4.999999999999998 second
 Next pulse time for Radar1: 5.1000000000000005 second
-measured_amplitude: -54.29904461383622 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: -1.8548510765285717e-09 second, type: <class 'numpy.float64'>
+theta: 0.8011408952463177
+theta_ml: 0.08726646259971647
+x: 7.2935611368420386
+1.2e-06
+measured_amplitude: -56.24977716617001 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 5.100099999999985 second
-measured_amplitude: -76.84588374746238 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 2.4543318409233876e-09 second, type: <class 'numpy.float64'>
+theta: -2.3714567220781935
+theta_ml: 0.06981317007977318
+x: -8.837695895509492
+1.5e-06
+measured_amplitude: -72.33240371738145 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar3: 5.100032298066107 second
+theta: 0.0
+theta_ml: 0.10471975511965978
+x: 0.0
+1.2e-06
+measured_amplitude: -9.207955292032581 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar4: 5.10030000000001 second
+No pulse generated for Radar4 at 5.099999999999998 second
 Next pulse time for Radar1: 5.1000000000000005 second
-measured_amplitude: -68.12145427397897 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 3.666871172367909e-09 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -68.43586421847756 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 5.100099999999985 second
-measured_amplitude: -58.901803281061014 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 1.361817138931275e-10 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.06981317007977318
+x: 8.975725545153564
+1.5e-06
+measured_amplitude: -77.04262975173 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar3: 5.100032298066107 second
+theta: 0.4636476090008061
+theta_ml: 0.10471975511965978
+x: 3.7854591189053166
+1.2e-06
+measured_amplitude: -62.52157747669708 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar4: 5.10030000000001 second
+No pulse generated for Radar4 at 5.099999999999998 second
 Simulating time: 5.1999999999999975 second
 Next pulse time for Radar1: 5.3 second
-measured_amplitude: -53.97405050596753 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: -1.7875618085112803e-08 second, type: <class 'numpy.float64'>
+theta: 0.8021734071417775
+theta_ml: 0.08726646259971647
+x: 7.30085448506941
+1.2e-06
+measured_amplitude: -56.62223013204139 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 5.3001999999999825 second
 No pulse generated for Radar2 at 5.299999999999997 second
+Next pulse time for Radar3: 5.300189752404531 second
+No pulse generated for Radar3 at 5.299999999999997 second
+Next pulse time for Radar4: 5.300299999999974 second
+No pulse generated for Radar4 at 5.299999999999997 second
 Next pulse time for Radar1: 5.3 second
-measured_amplitude: -68.12770542519056 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: -2.619888711964925e-09 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -68.42077700357014 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 5.3001999999999825 second
 No pulse generated for Radar2 at 5.299999999999997 second
+Next pulse time for Radar3: 5.300189752404531 second
+No pulse generated for Radar3 at 5.299999999999997 second
+Next pulse time for Radar4: 5.300299999999974 second
+No pulse generated for Radar4 at 5.299999999999997 second
 Simulating time: 5.399999999999997 second
 Next pulse time for Radar1: 5.5 second
-measured_amplitude: -53.99133695544049 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: -2.302521963148822e-09 second, type: <class 'numpy.float64'>
+theta: 0.8032079849621967
+theta_ml: 0.08726646259971647
+x: 7.308154619677742
+1.2e-06
+measured_amplitude: -55.93423373426168 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 5.50029999999998 second
 No pulse generated for Radar2 at 5.4999999999999964 second
+Next pulse time for Radar3: 5.5009622571437795 second
+No pulse generated for Radar3 at 5.4999999999999964 second
+Next pulse time for Radar4: 5.500499999999939 second
+No pulse generated for Radar4 at 5.4999999999999964 second
 Next pulse time for Radar1: 5.5 second
-measured_amplitude: -68.05350856258536 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 2.690574067817694e-09 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -68.40444127415627 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 5.50029999999998 second
 No pulse generated for Radar2 at 5.4999999999999964 second
+Next pulse time for Radar3: 5.5009622571437795 second
+No pulse generated for Radar3 at 5.4999999999999964 second
+Next pulse time for Radar4: 5.500499999999939 second
+No pulse generated for Radar4 at 5.4999999999999964 second
 Simulating time: 5.599999999999996 second
 Next pulse time for Radar1: 5.7 second
-measured_amplitude: -53.58838937456928 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: -7.530582393439403e-09 second, type: <class 'numpy.float64'>
+theta: 0.8042446326928829
+theta_ml: 0.08726646259971647
+x: 7.315461514091879
+1.2e-06
+measured_amplitude: -54.234068471284196 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 5.700399999999977 second
 No pulse generated for Radar2 at 5.699999999999996 second
+Next pulse time for Radar3: 5.700389963831939 second
+No pulse generated for Radar3 at 5.699999999999996 second
+Next pulse time for Radar4: 5.7010999999999035 second
+No pulse generated for Radar4 at 5.699999999999996 second
 Next pulse time for Radar1: 5.7 second
-measured_amplitude: -68.08634434106817 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 6.762490889287719e-09 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -68.3731479848866 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 5.700399999999977 second
 No pulse generated for Radar2 at 5.699999999999996 second
+Next pulse time for Radar3: 5.700389963831939 second
+No pulse generated for Radar3 at 5.699999999999996 second
+Next pulse time for Radar4: 5.7010999999999035 second
+No pulse generated for Radar4 at 5.699999999999996 second
 Simulating time: 5.799999999999995 second
 Next pulse time for Radar1: 5.9 second
-measured_amplitude: -53.541436933743896 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 1.810651142067939e-09 second, type: <class 'numpy.float64'>
+theta: 0.8052833543173117
+theta_ml: 0.08726646259971647
+x: 7.3227751414236515
+1.2e-06
+measured_amplitude: -54.70052647454757 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 5.900499999999974 second
 No pulse generated for Radar2 at 5.899999999999995 second
+Next pulse time for Radar3: 5.900202146118795 second
+No pulse generated for Radar3 at 5.899999999999995 second
+Next pulse time for Radar4: 5.900399999999868 second
+No pulse generated for Radar4 at 5.899999999999995 second
 Next pulse time for Radar1: 5.9 second
-measured_amplitude: -67.9968934693934 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 3.1585460489983834e-10 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -68.37957601762938 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 5.900499999999974 second
 No pulse generated for Radar2 at 5.899999999999995 second
+Next pulse time for Radar3: 5.900202146118795 second
+No pulse generated for Radar3 at 5.899999999999995 second
+Next pulse time for Radar4: 5.900399999999868 second
+No pulse generated for Radar4 at 5.899999999999995 second
 Simulating time: 5.999999999999995 second
 Next pulse time for Radar1: 6.1000000000000005 second
-measured_amplitude: -53.577140218211554 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: -4.5919501156718306e-09 second, type: <class 'numpy.float64'>
+theta: 0.8063241538170117
+theta_ml: 0.08726646259971647
+x: 7.330095474469943
+1.2e-06
+measured_amplitude: -54.142071633052225 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 6.100599999999972 second
 No pulse generated for Radar2 at 6.099999999999994 second
+Next pulse time for Radar3: 6.100048933984852 second
+theta: 0.0
+theta_ml: 0.10471975511965978
+x: 0.0
+1.2e-06
+measured_amplitude: -10.961458573275028 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar4: 6.100199999999832 second
+No pulse generated for Radar4 at 6.099999999999994 second
 Next pulse time for Radar1: 6.1000000000000005 second
-measured_amplitude: -67.9894331012141 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 4.528403520663683e-09 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -68.33766961419214 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 6.100599999999972 second
 No pulse generated for Radar2 at 6.099999999999994 second
+Next pulse time for Radar3: 6.100048933984852 second
+theta: 0.4636476090008061
+theta_ml: 0.10471975511965978
+x: 3.7854591189053166
+1.2e-06
+measured_amplitude: -62.44662949959504 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar4: 6.100199999999832 second
+No pulse generated for Radar4 at 6.099999999999994 second
 Simulating time: 6.199999999999994 second
 Next pulse time for Radar1: 6.3 second
-measured_amplitude: -53.30374067061246 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: -1.1782787275103766e-08 second, type: <class 'numpy.float64'>
+theta: 0.8073670351714503
+theta_ml: 0.08726646259971647
+x: 7.337422485710769
+1.2e-06
+measured_amplitude: -54.02709819646494 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 6.300699999999969 second
 No pulse generated for Radar2 at 6.299999999999994 second
+Next pulse time for Radar3: 6.300674148755898 second
+No pulse generated for Radar3 at 6.299999999999994 second
+Next pulse time for Radar4: 6.300199999999797 second
+No pulse generated for Radar4 at 6.299999999999994 second
 Next pulse time for Radar1: 6.3 second
-measured_amplitude: -67.96115645315 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: -8.740038416049828e-10 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -68.33113920365722 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 6.300699999999969 second
 No pulse generated for Radar2 at 6.299999999999994 second
+Next pulse time for Radar3: 6.300674148755898 second
+No pulse generated for Radar3 at 6.299999999999994 second
+Next pulse time for Radar4: 6.300199999999797 second
+No pulse generated for Radar4 at 6.299999999999994 second
 Simulating time: 6.399999999999993 second
 Next pulse time for Radar1: 6.5 second
-measured_amplitude: -53.16349108931574 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 1.3277714788879258e-08 second, type: <class 'numpy.float64'>
+theta: 0.8084120023579164
+theta_ml: 0.08726646259971647
+x: 7.344756147307315
+1.2e-06
+measured_amplitude: -54.61238896540797 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 6.500799999999966 second
 No pulse generated for Radar2 at 6.499999999999993 second
+Next pulse time for Radar3: 6.500985162440525 second
+No pulse generated for Radar3 at 6.499999999999993 second
+Next pulse time for Radar4: 6.500399999999762 second
+No pulse generated for Radar4 at 6.499999999999993 second
 Next pulse time for Radar1: 6.5 second
-measured_amplitude: -67.93016484654383 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 5.584849013441643e-10 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -68.31107885912877 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 6.500799999999966 second
 No pulse generated for Radar2 at 6.499999999999993 second
+Next pulse time for Radar3: 6.500985162440525 second
+No pulse generated for Radar3 at 6.499999999999993 second
+Next pulse time for Radar4: 6.500399999999762 second
+No pulse generated for Radar4 at 6.499999999999993 second
 Simulating time: 6.5999999999999925 second
 Next pulse time for Radar1: 6.7 second
-measured_amplitude: -53.07394848392911 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 1.2420902622892314e-08 second, type: <class 'numpy.float64'>
+theta: 0.8094590593514034
+theta_ml: 0.08726646259971647
+x: 7.352096431100002
+1.2e-06
+measured_amplitude: -56.30421935399246 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 6.700899999999963 second
 No pulse generated for Radar2 at 6.699999999999992 second
+Next pulse time for Radar3: 6.700960644211235 second
+No pulse generated for Radar3 at 6.699999999999992 second
+Next pulse time for Radar4: 6.700999999999726 second
+No pulse generated for Radar4 at 6.699999999999992 second
 Next pulse time for Radar1: 6.7 second
-measured_amplitude: -67.88983758670257 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 9.136532359328894e-10 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -68.30521433005791 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 6.700899999999963 second
 No pulse generated for Radar2 at 6.699999999999992 second
+Next pulse time for Radar3: 6.700960644211235 second
+No pulse generated for Radar3 at 6.699999999999992 second
+Next pulse time for Radar4: 6.700999999999726 second
+No pulse generated for Radar4 at 6.699999999999992 second
 Simulating time: 6.799999999999992 second
 Next pulse time for Radar1: 6.9 second
-measured_amplitude: -52.829954695333754 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: -2.3719598808177508e-09 second, type: <class 'numpy.float64'>
+theta: 0.8105082101244906
+theta_ml: 0.08726646259971647
+x: 7.359443308606533
+1.2e-06
+measured_amplitude: -53.75382254632387 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 6.900999999999961 second
 No pulse generated for Radar2 at 6.8999999999999915 second
+Next pulse time for Radar3: 6.900464128439356 second
+No pulse generated for Radar3 at 6.8999999999999915 second
+Next pulse time for Radar4: 6.900299999999691 second
+No pulse generated for Radar4 at 6.8999999999999915 second
 Next pulse time for Radar1: 6.9 second
-measured_amplitude: -67.86458183118258 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: -2.588081086835482e-09 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -68.2625017542248 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 6.900999999999961 second
 No pulse generated for Radar2 at 6.8999999999999915 second
+Next pulse time for Radar3: 6.900464128439356 second
+No pulse generated for Radar3 at 6.8999999999999915 second
+Next pulse time for Radar4: 6.900299999999691 second
+No pulse generated for Radar4 at 6.8999999999999915 second
 Simulating time: 6.999999999999991 second
 Next pulse time for Radar1: 7.1000000000000005 second
-measured_amplitude: -52.65385835053272 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: -1.2332551353883474e-08 second, type: <class 'numpy.float64'>
+theta: 0.8115594586472236
+theta_ml: 0.08726646259971647
+x: 7.366796751019936
+1.2e-06
+measured_amplitude: -56.220604693144374 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 7.101099999999958 second
 No pulse generated for Radar2 at 7.099999999999991 second
+Next pulse time for Radar3: 7.100569538402959 second
+No pulse generated for Radar3 at 7.099999999999991 second
+Next pulse time for Radar4: 7.100099999999655 second
+theta: 1.957215341950501
+theta_ml: 0.061086523819801536
+x: 13.436646512240046
+1.8e-06
+measured_amplitude: -68.33539872663245 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 7.1000000000000005 second
-measured_amplitude: -67.8104215109216 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 9.389903244124294e-09 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -68.26339093293925 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 7.101099999999958 second
 No pulse generated for Radar2 at 7.099999999999991 second
+Next pulse time for Radar3: 7.100569538402959 second
+No pulse generated for Radar3 at 7.099999999999991 second
+Next pulse time for Radar4: 7.100099999999655 second
+theta: 1.1999050379822342
+theta_ml: 0.061086523819801536
+x: 13.519913908578646
+1.8e-06
+measured_amplitude: -67.16099608107477 decibel, type: <class 'pint.Quantity'>
 Simulating time: 7.19999999999999 second
 Next pulse time for Radar1: 7.3 second
-measured_amplitude: -52.561443815901185 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 1.4313539089552519e-08 second, type: <class 'numpy.float64'>
+theta: 0.8126128088869936
+theta_ml: 0.08726646259971647
+x: 7.374156729206602
+1.2e-06
+measured_amplitude: -53.54712366447313 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 7.300199999999955 second
 No pulse generated for Radar2 at 7.29999999999999 second
+Next pulse time for Radar3: 7.300543923247801 second
+No pulse generated for Radar3 at 7.29999999999999 second
+Next pulse time for Radar4: 7.3000999999996194 second
+theta: 1.9582873313506082
+theta_ml: 0.061086523819801536
+x: 13.430778188767082
+1.8e-06
+measured_amplitude: -67.09157711173538 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 7.3 second
-measured_amplitude: -67.76749293390681 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: -3.354273737900663e-09 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -68.2053933804108 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 7.300199999999955 second
 No pulse generated for Radar2 at 7.29999999999999 second
+Next pulse time for Radar3: 7.300543923247801 second
+No pulse generated for Radar3 at 7.29999999999999 second
+Next pulse time for Radar4: 7.3000999999996194 second
+theta: 1.1999050379822342
+theta_ml: 0.061086523819801536
+x: 13.519913908578646
+1.8e-06
+measured_amplitude: -67.14621691958155 decibel, type: <class 'pint.Quantity'>
 Simulating time: 7.39999999999999 second
 Next pulse time for Radar1: 7.5 second
-measured_amplitude: -52.44396943719788 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 1.2022285274592593e-08 second, type: <class 'numpy.float64'>
+theta: 0.8136682648084158
+theta_ml: 0.08726646259971647
+x: 7.381523213704328
+1.2e-06
+measured_amplitude: -54.92284347094352 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 7.5001999999999525 second
 No pulse generated for Radar2 at 7.499999999999989 second
+Next pulse time for Radar3: 7.500178973647732 second
+No pulse generated for Radar3 at 7.499999999999989 second
+Next pulse time for Radar4: 7.5002999999995845 second
+No pulse generated for Radar4 at 7.499999999999989 second
 Next pulse time for Radar1: 7.5 second
-measured_amplitude: -67.74874191003413 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 4.8865061906849065e-09 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -68.17915954510406 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 7.5001999999999525 second
 No pulse generated for Radar2 at 7.499999999999989 second
+Next pulse time for Radar3: 7.500178973647732 second
+No pulse generated for Radar3 at 7.499999999999989 second
+Next pulse time for Radar4: 7.5002999999995845 second
+No pulse generated for Radar4 at 7.499999999999989 second
 Simulating time: 7.599999999999989 second
 Next pulse time for Radar1: 7.7 second
-measured_amplitude: -52.41077293037616 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: -8.660133160593525e-09 second, type: <class 'numpy.float64'>
+theta: 0.8147258303732062
+theta_ml: 0.08726646259971647
+x: 7.38889617472034
+1.2e-06
+measured_amplitude: -53.66895596878891 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 7.7003999999999495 second
 No pulse generated for Radar2 at 7.699999999999989 second
+Next pulse time for Radar3: 7.700284543736209 second
+No pulse generated for Radar3 at 7.699999999999989 second
+Next pulse time for Radar4: 7.700899999999549 second
+No pulse generated for Radar4 at 7.699999999999989 second
 Next pulse time for Radar1: 7.7 second
-measured_amplitude: -67.74678960771598 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: -2.5556266975200443e-09 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -68.1974718250115 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 7.7003999999999495 second
 No pulse generated for Radar2 at 7.699999999999989 second
+Next pulse time for Radar3: 7.700284543736209 second
+No pulse generated for Radar3 at 7.699999999999989 second
+Next pulse time for Radar4: 7.700899999999549 second
+No pulse generated for Radar4 at 7.699999999999989 second
 Simulating time: 7.799999999999988 second
 Next pulse time for Radar1: 7.9 second
-measured_amplitude: -52.29547180415384 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: -5.588475025889718e-09 second, type: <class 'numpy.float64'>
+theta: 0.8157855095400579
+theta_ml: 0.08726646259971647
+x: 7.3962755821293245
+1.2e-06
+measured_amplitude: -55.15311268242026 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 7.900399999999947 second
 No pulse generated for Radar2 at 7.899999999999988 second
+Next pulse time for Radar3: 7.900684969904908 second
+No pulse generated for Radar3 at 7.899999999999988 second
+Next pulse time for Radar4: 7.900199999999513 second
+No pulse generated for Radar4 at 7.899999999999988 second
 Next pulse time for Radar1: 7.9 second
-measured_amplitude: -67.71061290149532 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 5.894115844428157e-09 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -68.1750664290848 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 7.900399999999947 second
 No pulse generated for Radar2 at 7.899999999999988 second
+Next pulse time for Radar3: 7.900684969904908 second
+No pulse generated for Radar3 at 7.899999999999988 second
+Next pulse time for Radar4: 7.900199999999513 second
+No pulse generated for Radar4 at 7.899999999999988 second
 Simulating time: 7.999999999999988 second
 Next pulse time for Radar1: 8.1 second
-measured_amplitude: -52.116489262861585 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: -2.1699595408527536e-08 second, type: <class 'numpy.float64'>
+theta: 0.8168473062645156
+theta_ml: 0.08726646259971647
+x: 7.403661405471448
+1.2e-06
+measured_amplitude: -55.0535632691523 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 8.100599999999945 second
 No pulse generated for Radar2 at 8.099999999999987 second
+Next pulse time for Radar3: 8.100389896050133 second
+No pulse generated for Radar3 at 8.099999999999987 second
+Next pulse time for Radar4: 8.100899999999477 second
+No pulse generated for Radar4 at 8.099999999999987 second
 Next pulse time for Radar1: 8.1 second
-measured_amplitude: -67.6677670602644 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 3.131433851219156e-09 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -68.12714951623428 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 8.100599999999945 second
 No pulse generated for Radar2 at 8.099999999999987 second
+Next pulse time for Radar3: 8.100389896050133 second
+No pulse generated for Radar3 at 8.099999999999987 second
+Next pulse time for Radar4: 8.100899999999477 second
+No pulse generated for Radar4 at 8.099999999999987 second
 Simulating time: 8.199999999999987 second
 Next pulse time for Radar1: 8.3 second
-measured_amplitude: -52.02818153163587 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 4.694736032846613e-10 second, type: <class 'numpy.float64'>
+theta: 0.8179112244988497
+theta_ml: 0.08726646259971647
+x: 7.411053613950377
+1.2e-06
+measured_amplitude: -55.02898529275134 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 8.300599999999942 second
 No pulse generated for Radar2 at 8.299999999999986 second
+Next pulse time for Radar3: 8.301051604771876 second
+No pulse generated for Radar3 at 8.299999999999986 second
+Next pulse time for Radar4: 8.30109999999944 second
+No pulse generated for Radar4 at 8.299999999999986 second
 Next pulse time for Radar1: 8.3 second
-measured_amplitude: -67.58873464271103 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 1.970552414867875e-09 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -68.11010226515711 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 8.300599999999942 second
 No pulse generated for Radar2 at 8.299999999999986 second
+Next pulse time for Radar3: 8.301051604771876 second
+No pulse generated for Radar3 at 8.299999999999986 second
+Next pulse time for Radar4: 8.30109999999944 second
+No pulse generated for Radar4 at 8.299999999999986 second
 Simulating time: 8.399999999999986 second
 Next pulse time for Radar1: 8.5 second
-measured_amplitude: -52.173891466450954 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 1.2193932849561238e-08 second, type: <class 'numpy.float64'>
+theta: 0.8189772681919287
+theta_ml: 0.08726646259971647
+x: 7.418452176431295
+1.2e-06
+measured_amplitude: -53.1485844979953 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 8.50079999999994 second
 No pulse generated for Radar2 at 8.499999999999986 second
+Next pulse time for Radar3: 8.500695177446545 second
+No pulse generated for Radar3 at 8.499999999999986 second
+Next pulse time for Radar4: 8.500199999999404 second
+No pulse generated for Radar4 at 8.499999999999986 second
 Next pulse time for Radar1: 8.5 second
-measured_amplitude: -67.58893331808882 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 1.4742535441785002e-09 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -68.09025340156363 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 8.50079999999994 second
 No pulse generated for Radar2 at 8.499999999999986 second
+Next pulse time for Radar3: 8.500695177446545 second
+No pulse generated for Radar3 at 8.499999999999986 second
+Next pulse time for Radar4: 8.500199999999404 second
+No pulse generated for Radar4 at 8.499999999999986 second
 Simulating time: 8.599999999999985 second
 Next pulse time for Radar1: 8.700000000000001 second
-measured_amplitude: -51.988999260330644 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: -8.678317813527646e-09 second, type: <class 'numpy.float64'>
+theta: 0.8200454412890911
+theta_ml: 0.08726646259971647
+x: 7.425857061438911
+1.2e-06
+measured_amplitude: -53.350141215746746 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 8.700799999999937 second
 No pulse generated for Radar2 at 8.699999999999985 second
+Next pulse time for Radar3: 8.700320655469639 second
+No pulse generated for Radar3 at 8.699999999999985 second
+Next pulse time for Radar4: 8.70079999999937 second
+No pulse generated for Radar4 at 8.699999999999985 second
 Next pulse time for Radar1: 8.700000000000001 second
-measured_amplitude: -67.57859303803079 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: -7.181299655306064e-10 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -68.06758894720411 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 8.700799999999937 second
 No pulse generated for Radar2 at 8.699999999999985 second
+Next pulse time for Radar3: 8.700320655469639 second
+No pulse generated for Radar3 at 8.699999999999985 second
+Next pulse time for Radar4: 8.70079999999937 second
+No pulse generated for Radar4 at 8.699999999999985 second
 Simulating time: 8.799999999999985 second
 Next pulse time for Radar1: 8.9 second
-measured_amplitude: -51.923737112600904 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: -3.4986497692233813e-09 second, type: <class 'numpy.float64'>
+theta: 0.8211157477320151
+theta_ml: 0.08726646259971647
+x: 7.433268237155469
+1.2e-06
+measured_amplitude: -54.92448840823216 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 8.900999999999934 second
 No pulse generated for Radar2 at 8.899999999999984 second
+Next pulse time for Radar3: 8.900019012046505 second
+theta: 0.0
+theta_ml: 0.10471975511965978
+x: 0.0
+1.2e-06
+measured_amplitude: -8.73248876289611 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar4: 8.900099999999336 second
+theta: 1.9668294063794958
+theta_ml: 0.061086523819801536
+x: 13.383465918508445
+1.8e-06
+measured_amplitude: -68.86466175558184 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 8.9 second
-measured_amplitude: -67.50101994815937 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 1.0543561808333262e-09 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -68.05546924760154 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 8.900999999999934 second
 No pulse generated for Radar2 at 8.899999999999984 second
+Next pulse time for Radar3: 8.900019012046505 second
+theta: 0.4636476090008061
+theta_ml: 0.10471975511965978
+x: 3.7854591189053166
+1.2e-06
+measured_amplitude: -62.19178051421293 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar4: 8.900099999999336 second
+theta: 1.1999050379822342
+theta_ml: 0.061086523819801536
+x: 13.519913908578646
+1.8e-06
+measured_amplitude: -66.99373989909977 decibel, type: <class 'pint.Quantity'>
 Simulating time: 8.999999999999984 second
 Next pulse time for Radar1: 9.1 second
-measured_amplitude: -51.873711943970726 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: -7.596951867002278e-09 second, type: <class 'numpy.float64'>
+theta: 0.8221881914585885
+theta_ml: 0.08726646259971647
+x: 7.440685671418745
+1.2e-06
+measured_amplitude: -55.69820809646541 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 9.100999999999932 second
 No pulse generated for Radar2 at 9.099999999999984 second
+Next pulse time for Radar3: 9.100252194571242 second
+No pulse generated for Radar3 at 9.099999999999984 second
+Next pulse time for Radar4: 9.1007999999993 second
+No pulse generated for Radar4 at 9.099999999999984 second
 Next pulse time for Radar1: 9.1 second
-measured_amplitude: -67.51046078386047 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 8.068532018129791e-09 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -68.03538774754014 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 9.100999999999932 second
 No pulse generated for Radar2 at 9.099999999999984 second
+Next pulse time for Radar3: 9.100252194571242 second
+No pulse generated for Radar3 at 9.099999999999984 second
+Next pulse time for Radar4: 9.1007999999993 second
+No pulse generated for Radar4 at 9.099999999999984 second
 Simulating time: 9.199999999999983 second
 Next pulse time for Radar1: 9.3 second
-measured_amplitude: -51.7479834228918 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: -1.0951955487818295e-08 second, type: <class 'numpy.float64'>
+theta: 0.8232627764027761
+theta_ml: 0.08726646259971647
+x: 7.448109331720055
+1.2e-06
+measured_amplitude: -54.619559410978326 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 9.301199999999929 second
 No pulse generated for Radar2 at 9.299999999999983 second
+Next pulse time for Radar3: 9.300287730003044 second
+No pulse generated for Radar3 at 9.299999999999983 second
+Next pulse time for Radar4: 9.300999999999263 second
+No pulse generated for Radar4 at 9.299999999999983 second
 Next pulse time for Radar1: 9.3 second
-measured_amplitude: -67.47777478805065 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 4.606387380090631e-09 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -68.03465312298425 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 9.301199999999929 second
 No pulse generated for Radar2 at 9.299999999999983 second
+Next pulse time for Radar3: 9.300287730003044 second
+No pulse generated for Radar3 at 9.299999999999983 second
+Next pulse time for Radar4: 9.300999999999263 second
+No pulse generated for Radar4 at 9.299999999999983 second
 Simulating time: 9.399999999999983 second
 Next pulse time for Radar1: 9.5 second
-measured_amplitude: -51.62891035601586 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 6.752884604765876e-09 second, type: <class 'numpy.float64'>
+theta: 0.8243395064944874
+theta_ml: 0.08726646259971647
+x: 7.455539185202251
+1.2e-06
+measured_amplitude: -54.66367411138037 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 9.501199999999926 second
 No pulse generated for Radar2 at 9.499999999999982 second
+Next pulse time for Radar3: 9.500348865378728 second
+No pulse generated for Radar3 at 9.499999999999982 second
+Next pulse time for Radar4: 9.500099999999227 second
+theta: 1.970017096370149
+theta_ml: 0.061086523819801536
+x: 13.365559760560132
+1.8e-06
+measured_amplitude: -68.00211865387202 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 9.5 second
-measured_amplitude: -67.42900909883484 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: -1.3513652245621669e-09 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -68.00621598617082 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 9.501199999999926 second
 No pulse generated for Radar2 at 9.499999999999982 second
+Next pulse time for Radar3: 9.500348865378728 second
+No pulse generated for Radar3 at 9.499999999999982 second
+Next pulse time for Radar4: 9.500099999999227 second
+theta: 1.1999050379822342
+theta_ml: 0.061086523819801536
+x: 13.519913908578646
+1.8e-06
+measured_amplitude: -66.89553686990637 decibel, type: <class 'pint.Quantity'>
 Simulating time: 9.599999999999982 second
 Next pulse time for Radar1: 9.700000000000001 second
-measured_amplitude: -51.81313420392719 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 8.605559922533143e-10 second, type: <class 'numpy.float64'>
+theta: 0.8254183856594417
+theta_ml: 0.08726646259971647
+x: 7.46297519865771
+1.2e-06
+measured_amplitude: -53.656797142048816 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 9.700099999999923 second
-measured_amplitude: -75.18543318398541 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: -1.8213251397999617e-09 second, type: <class 'numpy.float64'>
+theta: -2.3932502211385582
+theta_ml: 0.06981317007977318
+x: -8.637037885261302
+1.5e-06
+measured_amplitude: -67.64864198830624 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar3: 9.700149835343742 second
+No pulse generated for Radar3 at 9.699999999999982 second
+Next pulse time for Radar4: 9.700699999999193 second
+No pulse generated for Radar4 at 9.699999999999982 second
 Next pulse time for Radar1: 9.700000000000001 second
-measured_amplitude: -67.3974939939809 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: 7.529689874243517e-10 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -67.96071116997338 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 9.700099999999923 second
-measured_amplitude: -58.47309993144736 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: -6.074932057797026e-09 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.06981317007977318
+x: 8.975725545153564
+1.5e-06
+measured_amplitude: -76.5822624770264 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar3: 9.700149835343742 second
+No pulse generated for Radar3 at 9.699999999999982 second
+Next pulse time for Radar4: 9.700699999999193 second
+No pulse generated for Radar4 at 9.699999999999982 second
 Simulating time: 9.799999999999981 second
 Next pulse time for Radar1: 9.9 second
-measured_amplitude: -51.85175803322766 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: -2.327713167999121e-08 second, type: <class 'numpy.float64'>
+theta: 0.8264994178190329
+theta_ml: 0.08726646259971647
+x: 7.4704173385263255
+1.2e-06
+measured_amplitude: -54.55077128575799 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 9.90019999999992 second
 No pulse generated for Radar2 at 9.89999999999998 second
+Next pulse time for Radar3: 9.900596936951766 second
+No pulse generated for Radar3 at 9.89999999999998 second
+Next pulse time for Radar4: 9.900899999999158 second
+No pulse generated for Radar4 at 9.89999999999998 second
 Next pulse time for Radar1: 9.9 second
-measured_amplitude: -67.3440014332045 decibel, type: <class 'pint.Quantity'>
-true_pw: 9400000000.0 second, type: <class 'numpy.float64'>
-PW_syst 0.0 second, type: <class 'float'>
-PW_arb: -7.335881467184951e-09 second, type: <class 'numpy.float64'>
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072837
+1.2e-06
+measured_amplitude: -67.93574041564251 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar2: 9.90019999999992 second
 No pulse generated for Radar2 at 9.89999999999998 second
+Next pulse time for Radar3: 9.900596936951766 second
+No pulse generated for Radar3 at 9.89999999999998 second
+Next pulse time for Radar4: 9.900899999999158 second
+No pulse generated for Radar4 at 9.89999999999998 second
 Simulating time: 9.99999999999998 second
 Next pulse time for Radar1: None
 No pulse generated for Radar1 at 10.09999999999998 second
 Next pulse time for Radar2: None
 No pulse generated for Radar2 at 10.09999999999998 second
+Next pulse time for Radar3: None
+No pulse generated for Radar3 at 10.09999999999998 second
+Next pulse time for Radar4: None
+No pulse generated for Radar4 at 10.09999999999998 second
 Next pulse time for Radar1: None
 No pulse generated for Radar1 at 10.09999999999998 second
 Next pulse time for Radar2: None
 No pulse generated for Radar2 at 10.09999999999998 second
+Next pulse time for Radar3: None
+No pulse generated for Radar3 at 10.09999999999998 second
+Next pulse time for Radar4: None
+No pulse generated for Radar4 at 10.09999999999998 second
 Simulation complete. PDW data written to pdw_output.csv

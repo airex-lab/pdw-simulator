@@ -1,4 +1,5 @@
 import numpy as np
+import numpy.ma as ma
 from scipy import stats
 from scenario_geometry_functions import get_unit_registry
 
@@ -214,6 +215,11 @@ def jitter_frequency(start_time, end_time, mean_frequency, jitter_percentage):
     :return: Array of frequency values
     """
     num_values = int((end_time - start_time) / 0.001)  # Assuming 1ms intervals
+    # print(mean_frequency)
+    # print(jitter_percentage)
+    # print(type(mean_frequency))
+    # print(type(jitter_percentage))
+    mean_frequency=float(mean_frequency)
     std_dev = mean_frequency * (jitter_percentage / 100)
     return stats.truncnorm(
         (0 - mean_frequency) / std_dev,
@@ -302,16 +308,20 @@ def sinc_lobe_pattern(theta, theta_ml, P_ml, P_bl):
     theta_ml = theta_ml.to(ureg.radian).magnitude
     P_ml = P_ml.to(ureg.dB).magnitude
     P_bl = P_bl.to(ureg.dB).magnitude
-
+    print(f"theta: {theta}")
+    print(f"theta_ml: {theta_ml}")
     # Calculate x
+    # Small value to avoid division by zero
     x = 0.443 * np.sin(theta) / np.sin(theta_ml / 2)
-
+    # x = 0.443 * np.sin(theta) / np.sin(theta_ml / 2)
+    print(f"x: {x}")
     # Calculate P_theta based on the range of theta
     P_theta = np.zeros_like(theta)
 
     # For theta in [-pi/2, pi/2]
     mask1 = np.abs(theta) <= np.pi/2
-    P_theta[mask1] = 20 * np.log10(np.abs(np.sin(np.pi * x[mask1]) / (np.pi * x[mask1]))) + P_ml
+    sinc = ma.masked_invalid(np.sin(np.pi * x[mask1]) / (np.pi * x[mask1]))
+    P_theta[mask1] = 20 * ma.log10(ma.abs(sinc)) + P_ml
 
     # For theta > pi/2
     mask2 = theta > np.pi/2
@@ -322,3 +332,4 @@ def sinc_lobe_pattern(theta, theta_ml, P_ml, P_bl):
     P_theta[mask3] = 20 * np.log10(np.abs(np.sin(np.pi * x[mask3]) / (np.pi * x[mask3]))) + P_ml + 2/np.pi * P_bl * (-theta[mask3] - np.pi/2)
 
     return P_theta * ureg.dB
+

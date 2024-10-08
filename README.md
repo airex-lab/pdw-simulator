@@ -24,6 +24,11 @@ The PDW Simulator allows users to input specific **scenarios** and produce Pulse
 ## Workflow
 
 
+## Important functions
+## Meaning of files
+## How to run 
+## Workflow
+##
 =======
 ```mermaid
 graph TD;

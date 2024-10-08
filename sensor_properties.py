@@ -24,7 +24,18 @@ def create_error_model(error_config):
         return lambda t: A * np.sin(2 * np.pi * f * t.magnitude + phi0) * ureg(A_unit)
     elif error_config['type'] == 'gaussian':
         error_value, error_unit = parse_value_and_unit(error_config['error'])
-        return lambda size: np.random.normal(0, error_value, size) * ureg(error_unit)
+        # return lambda size: np.random.normal(0, error_value, size) * ureg(error_unit)
+        if error_unit == 'percent':
+            return lambda size: np.random.normal(0, error_value, size) * ureg.dimensionless
+        else:
+            return lambda size: np.random.normal(0, error_value, size) * ureg(error_unit)
+    elif error_config['type'] == 'uniform':
+        error_value, error_unit = parse_value_and_unit(error_config['error'])
+        # return lambda size: np.random.uniform(-error_value, error_value, size) * ureg(error_unit)
+        if error_unit == 'percent':
+            return lambda size: np.random.uniform(-error_value, error_value, size) * ureg.dimensionless
+        else:
+            return lambda size: np.random.uniform(-error_value, error_value, size) * ureg(error_unit)
     else:
         raise ValueError(f"Unknown error type: {error_config['type']}")
 
@@ -32,16 +43,23 @@ def parse_value_and_unit(string_value):
     """
     Parse a string containing a value and a unit.
     
-    :param string_value: String containing value and unit (e.g., '0.1 dB')
+    :param string_value: String containing value and unit (e.g., '0.1 dB', '4.5%')
     :return: Tuple of (value, unit)
     """
     parts = string_value.split()
     if len(parts) == 2:
-        return float(parts[0]), parts[1]
+        value, unit = parts
     elif len(parts) == 1:
-        return float(parts[0]), ''
+        value, unit = parts[0], ''
     else:
         raise ValueError(f"Invalid value and unit string: {string_value}")
+    
+    # Handle percentage
+    if value.endswith('%'):
+        return float(value[:-1]) / 100, 'percent'
+    else:
+        return float(value), unit
+
 
 def detect_pulse(amplitude, detection_levels, detection_probabilities, saturation_level):
     """
@@ -187,9 +205,15 @@ def measure_pulse_width(true_pw, t, pw_error_syst, pw_error_arb):
     """
     PW_syst = pw_error_syst(t)
     PW_arb = pw_error_arb(1)[0]  # Generate a single random error
-    print(f"true_pw: {true_pw}, type: {type(true_pw.magnitude)}")
-    print(f"PW_syst {PW_syst}, type: {type(PW_syst.magnitude)}")
-    print(f"PW_arb: {PW_arb}, type: {type(PW_arb.magnitude)}")
+
+    if isinstance(PW_arb, ureg.Quantity) and PW_arb.units == ureg.percent:
+        PW_arb = true_pw * PW_arb.magnitude / 100
+
+    if isinstance(PW_arb, ureg.Quantity) and PW_arb.dimensionless:
+        PW_arb = true_pw * PW_arb.magnitude
+    # print(f"true_pw: {true_pw}, type: {type(true_pw.magnitude)}")
+    # print(f"PW_syst {PW_syst}, type: {type(PW_syst.magnitude)}")
+    # print(f"PW_arb: {PW_arb}, type: {type(PW_arb.magnitude)}")
     
     measured_pw = true_pw + PW_syst + PW_arb
     return measured_pw.to(ureg.second)

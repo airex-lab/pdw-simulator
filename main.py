@@ -106,6 +106,10 @@ def generate_pdw(sensor, radar, current_time):
 
 
 def main():
+    """
+    Brief Explanation 
+    
+    """
     config = load_config('config.yaml')
     scenario = create_scenario(config)
     

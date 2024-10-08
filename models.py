@@ -101,7 +101,8 @@ class Radar:
         # print(self.frequencies[0])
         if self.pulse_widths is None:
             return None
-        true_pw=self.frequencies[0].astype(float)
+        true_pw=self.pulse_widths[0].astype(float)
+        print(true_pw)
         return true_pw * ureg.second
     
     def calculate_power_at_angle(self, theta):
