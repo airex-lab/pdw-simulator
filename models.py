@@ -96,7 +96,6 @@ class Radar:
 
         :return: Current pulse width
         """
-        # print("Hi Harshwardhan")
         # print(type((self.frequencies[0])))
         # print(self.frequencies[0])
         if self.pulse_widths is None:
