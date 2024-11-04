@@ -1,3 +1,6 @@
 pint
 numpy
 scipy
+streamlit 
+pyyaml 
+pandas

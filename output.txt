@@ -1,769 +1,1001 @@
 Initialized Radar1 with 10000 pulse times
 Added Radar1 to scenario
-Initialized Radar2 with 8696 pulse times
+Initialized Radar2 with 10000 pulse times
 Added Radar2 to scenario
 Simulating time: 0 second
 Next pulse time for Radar1: 0.1 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -60.576931824648845 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 0.10120000000000005 second
-No pulse generated for Radar2 at 0.1 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -59.177099546958665 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 0.1 second
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072838
+1e-06
+measured_amplitude: -59.082877720777724 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 0.1 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -68.93163322681482 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 0.10120000000000005 second
-No pulse generated for Radar2 at 0.1 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -68.93185318956544 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 0.1 second
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072838
+1e-06
+measured_amplitude: -68.92318335999515 decibel, type: <class 'pint.Quantity'>
 Simulating time: 0.2 second
 Next pulse time for Radar1: 0.301 second
 No pulse generated for Radar1 at 0.30000000000000004 second
-Next pulse time for Radar2: 0.3011999999999998 second
+Next pulse time for Radar2: 0.301 second
 No pulse generated for Radar2 at 0.30000000000000004 second
 Next pulse time for Radar1: 0.301 second
 No pulse generated for Radar1 at 0.30000000000000004 second
-Next pulse time for Radar2: 0.3011999999999998 second
+Next pulse time for Radar2: 0.301 second
 No pulse generated for Radar2 at 0.30000000000000004 second
 Simulating time: 0.4 second
 Next pulse time for Radar1: 0.5 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -58.41623054989076 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 0.5000999999999995 second
-theta: -2.356194490192345
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -59.837857818545054 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 0.5 second
+theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: -7.181400817072838
-1.8e-06
-measured_amplitude: -70.62478877860951 decibel, type: <class 'pint.Quantity'>
+x: 7.181400817072838
+1e-06
+measured_amplitude: -59.25971621352491 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 0.5 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -68.8749707680779 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 0.5000999999999995 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -68.90191749019259 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 0.5 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.8e-06
-measured_amplitude: -59.37188803185769 decibel, type: <class 'pint.Quantity'>
+x: 7.181400817072838
+1e-06
+measured_amplitude: -68.90057678304507 decibel, type: <class 'pint.Quantity'>
 Simulating time: 0.6 second
 Next pulse time for Radar1: 0.7000000000000001 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -58.71173031830772 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 0.7001999999999968 second
-No pulse generated for Radar2 at 0.7 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -60.68304490481708 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 0.7000000000000001 second
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072838
+1e-06
+measured_amplitude: -59.300096654578645 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 0.7000000000000001 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -68.83591396777237 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 0.7001999999999968 second
-No pulse generated for Radar2 at 0.7 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -68.86428260452209 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 0.7000000000000001 second
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072838
+1e-06
+measured_amplitude: -68.87410733844924 decibel, type: <class 'pint.Quantity'>
 Simulating time: 0.7999999999999999 second
 Next pulse time for Radar1: 0.9 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -58.26481890786447 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 0.9002999999999941 second
-No pulse generated for Radar2 at 0.8999999999999999 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -59.436723311860845 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 0.9 second
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072838
+1e-06
+measured_amplitude: -60.87954706431882 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 0.9 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -68.83338133926952 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 0.9002999999999941 second
-No pulse generated for Radar2 at 0.8999999999999999 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -68.83301837638555 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 0.9 second
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072838
+1e-06
+measured_amplitude: -68.83469461754808 decibel, type: <class 'pint.Quantity'>
 Simulating time: 0.9999999999999999 second
 Next pulse time for Radar1: 1.1 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -60.30011689813016 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 1.1003999999999963 second
-No pulse generated for Radar2 at 1.0999999999999999 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -58.276775240873945 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 1.1 second
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072838
+1e-06
+measured_amplitude: -59.874656879087944 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 1.1 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -68.76078835012999 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 1.1003999999999963 second
-No pulse generated for Radar2 at 1.0999999999999999 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -68.76975882200135 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 1.1 second
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072838
+1e-06
+measured_amplitude: -68.84710657536287 decibel, type: <class 'pint.Quantity'>
 Simulating time: 1.2 second
 Next pulse time for Radar1: 1.3 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -60.40280428966776 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 1.3005000000000033 second
-No pulse generated for Radar2 at 1.3 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -59.507895613305145 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 1.3 second
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072838
+1e-06
+measured_amplitude: -59.91432197123486 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 1.3 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -68.73686581740185 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 1.3005000000000033 second
-No pulse generated for Radar2 at 1.3 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -68.74571661632214 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 1.3 second
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072838
+1e-06
+measured_amplitude: -68.82979320435219 decibel, type: <class 'pint.Quantity'>
 Simulating time: 1.4000000000000001 second
 Next pulse time for Radar1: 1.5010000000000001 second
 No pulse generated for Radar1 at 1.5000000000000002 second
-Next pulse time for Radar2: 1.5006000000000101 second
+Next pulse time for Radar2: 1.5010000000000001 second
 No pulse generated for Radar2 at 1.5000000000000002 second
 Next pulse time for Radar1: 1.5010000000000001 second
 No pulse generated for Radar1 at 1.5000000000000002 second
-Next pulse time for Radar2: 1.5006000000000101 second
+Next pulse time for Radar2: 1.5010000000000001 second
 No pulse generated for Radar2 at 1.5000000000000002 second
 Simulating time: 1.6000000000000003 second
 Next pulse time for Radar1: 1.701 second
 No pulse generated for Radar1 at 1.7000000000000004 second
-Next pulse time for Radar2: 1.7007000000000172 second
+Next pulse time for Radar2: 1.701 second
 No pulse generated for Radar2 at 1.7000000000000004 second
 Next pulse time for Radar1: 1.701 second
 No pulse generated for Radar1 at 1.7000000000000004 second
-Next pulse time for Radar2: 1.7007000000000172 second
+Next pulse time for Radar2: 1.701 second
 No pulse generated for Radar2 at 1.7000000000000004 second
 Simulating time: 1.8000000000000005 second
 Next pulse time for Radar1: 1.901 second
 No pulse generated for Radar1 at 1.9000000000000006 second
-Next pulse time for Radar2: 1.900800000000024 second
+Next pulse time for Radar2: 1.901 second
 No pulse generated for Radar2 at 1.9000000000000006 second
 Next pulse time for Radar1: 1.901 second
 No pulse generated for Radar1 at 1.9000000000000006 second
-Next pulse time for Radar2: 1.900800000000024 second
+Next pulse time for Radar2: 1.901 second
 No pulse generated for Radar2 at 1.9000000000000006 second
 Simulating time: 2.0000000000000004 second
 Next pulse time for Radar1: 2.101 second
 No pulse generated for Radar1 at 2.1000000000000005 second
-Next pulse time for Radar2: 2.100900000000026 second
+Next pulse time for Radar2: 2.101 second
 No pulse generated for Radar2 at 2.1000000000000005 second
 Next pulse time for Radar1: 2.101 second
 No pulse generated for Radar1 at 2.1000000000000005 second
-Next pulse time for Radar2: 2.100900000000026 second
+Next pulse time for Radar2: 2.101 second
 No pulse generated for Radar2 at 2.1000000000000005 second
 Simulating time: 2.2000000000000006 second
 Next pulse time for Radar1: 2.301 second
 No pulse generated for Radar1 at 2.3000000000000007 second
-Next pulse time for Radar2: 2.3000000000000234 second
-theta: -2.358190495525653
-theta_ml: 0.08726646259971647
-x: -7.1670524067797
-1.8e-06
-measured_amplitude: -71.02481166227679 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 2.301 second
+No pulse generated for Radar2 at 2.3000000000000007 second
 Next pulse time for Radar1: 2.301 second
 No pulse generated for Radar1 at 2.3000000000000007 second
-Next pulse time for Radar2: 2.3000000000000234 second
-theta: 0.7853981633974483
-theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.8e-06
-measured_amplitude: -59.17420736072133 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 2.301 second
+No pulse generated for Radar2 at 2.3000000000000007 second
 Simulating time: 2.400000000000001 second
 Next pulse time for Radar1: 2.501 second
 No pulse generated for Radar1 at 2.500000000000001 second
-Next pulse time for Radar2: 2.5000000000000204 second
-theta: -2.3591855081921516
-theta_ml: 0.08726646259971647
-x: -7.159889026932657
-1.8e-06
-measured_amplitude: -70.86473027636458 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 2.501 second
+No pulse generated for Radar2 at 2.500000000000001 second
 Next pulse time for Radar1: 2.501 second
 No pulse generated for Radar1 at 2.500000000000001 second
-Next pulse time for Radar2: 2.5000000000000204 second
-theta: 0.7853981633974483
-theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.8e-06
-measured_amplitude: -59.190502042776934 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 2.501 second
+No pulse generated for Radar2 at 2.500000000000001 second
 Simulating time: 2.600000000000001 second
 Next pulse time for Radar1: 2.701 second
 No pulse generated for Radar1 at 2.700000000000001 second
-Next pulse time for Radar2: 2.700200000000018 second
+Next pulse time for Radar2: 2.701 second
 No pulse generated for Radar2 at 2.700000000000001 second
 Next pulse time for Radar1: 2.701 second
 No pulse generated for Radar1 at 2.700000000000001 second
-Next pulse time for Radar2: 2.700200000000018 second
+Next pulse time for Radar2: 2.701 second
 No pulse generated for Radar2 at 2.700000000000001 second
 Simulating time: 2.800000000000001 second
 Next pulse time for Radar1: 2.9010000000000002 second
 No pulse generated for Radar1 at 2.9000000000000012 second
-Next pulse time for Radar2: 2.900200000000015 second
+Next pulse time for Radar2: 2.9010000000000002 second
 No pulse generated for Radar2 at 2.9000000000000012 second
 Next pulse time for Radar1: 2.9010000000000002 second
 No pulse generated for Radar1 at 2.9000000000000012 second
-Next pulse time for Radar2: 2.900200000000015 second
+Next pulse time for Radar2: 2.9010000000000002 second
 No pulse generated for Radar2 at 2.9000000000000012 second
 Simulating time: 3.0000000000000013 second
 Next pulse time for Radar1: 3.101 second
 No pulse generated for Radar1 at 3.1000000000000014 second
-Next pulse time for Radar2: 3.1004000000000125 second
+Next pulse time for Radar2: 3.101 second
 No pulse generated for Radar2 at 3.1000000000000014 second
 Next pulse time for Radar1: 3.101 second
 No pulse generated for Radar1 at 3.1000000000000014 second
-Next pulse time for Radar2: 3.1004000000000125 second
+Next pulse time for Radar2: 3.101 second
 No pulse generated for Radar2 at 3.1000000000000014 second
 Simulating time: 3.2000000000000015 second
 Next pulse time for Radar1: 3.301 second
 No pulse generated for Radar1 at 3.3000000000000016 second
-Next pulse time for Radar2: 3.3004000000000095 second
+Next pulse time for Radar2: 3.301 second
 No pulse generated for Radar2 at 3.3000000000000016 second
 Next pulse time for Radar1: 3.301 second
 No pulse generated for Radar1 at 3.3000000000000016 second
-Next pulse time for Radar2: 3.3004000000000095 second
+Next pulse time for Radar2: 3.301 second
 No pulse generated for Radar2 at 3.3000000000000016 second
 Simulating time: 3.4000000000000017 second
 Next pulse time for Radar1: 3.501 second
 No pulse generated for Radar1 at 3.5000000000000018 second
-Next pulse time for Radar2: 3.500600000000007 second
+Next pulse time for Radar2: 3.501 second
 No pulse generated for Radar2 at 3.5000000000000018 second
 Next pulse time for Radar1: 3.501 second
 No pulse generated for Radar1 at 3.5000000000000018 second
-Next pulse time for Radar2: 3.500600000000007 second
+Next pulse time for Radar2: 3.501 second
 No pulse generated for Radar2 at 3.5000000000000018 second
 Simulating time: 3.600000000000002 second
 Next pulse time for Radar1: 3.701 second
 No pulse generated for Radar1 at 3.700000000000002 second
-Next pulse time for Radar2: 3.700600000000004 second
+Next pulse time for Radar2: 3.701 second
 No pulse generated for Radar2 at 3.700000000000002 second
 Next pulse time for Radar1: 3.701 second
 No pulse generated for Radar1 at 3.700000000000002 second
-Next pulse time for Radar2: 3.700600000000004 second
+Next pulse time for Radar2: 3.701 second
 No pulse generated for Radar2 at 3.700000000000002 second
 Simulating time: 3.800000000000002 second
 Next pulse time for Radar1: 3.9010000000000002 second
 No pulse generated for Radar1 at 3.900000000000002 second
-Next pulse time for Radar2: 3.9008000000000016 second
+Next pulse time for Radar2: 3.9010000000000002 second
 No pulse generated for Radar2 at 3.900000000000002 second
 Next pulse time for Radar1: 3.9010000000000002 second
 No pulse generated for Radar1 at 3.900000000000002 second
-Next pulse time for Radar2: 3.9008000000000016 second
+Next pulse time for Radar2: 3.9010000000000002 second
 No pulse generated for Radar2 at 3.900000000000002 second
 Simulating time: 4.000000000000002 second
 Next pulse time for Radar1: 4.101 second
 No pulse generated for Radar1 at 4.100000000000001 second
-Next pulse time for Radar2: 4.100799999999999 second
+Next pulse time for Radar2: 4.101 second
 No pulse generated for Radar2 at 4.100000000000001 second
 Next pulse time for Radar1: 4.101 second
 No pulse generated for Radar1 at 4.100000000000001 second
-Next pulse time for Radar2: 4.100799999999999 second
+Next pulse time for Radar2: 4.101 second
 No pulse generated for Radar2 at 4.100000000000001 second
 Simulating time: 4.200000000000001 second
 Next pulse time for Radar1: 4.301 second
 No pulse generated for Radar1 at 4.300000000000001 second
-Next pulse time for Radar2: 4.300999999999996 second
+Next pulse time for Radar2: 4.301 second
 No pulse generated for Radar2 at 4.300000000000001 second
 Next pulse time for Radar1: 4.301 second
 No pulse generated for Radar1 at 4.300000000000001 second
-Next pulse time for Radar2: 4.300999999999996 second
+Next pulse time for Radar2: 4.301 second
 No pulse generated for Radar2 at 4.300000000000001 second
 Simulating time: 4.4 second
 Next pulse time for Radar1: 4.5 second
 theta: 0.7993248395589303
 theta_ml: 0.08726646259971647
 x: 7.280714214330442
-1.1228888798294908e-06
-measured_amplitude: -56.38010131600897 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 4.500999999999993 second
-No pulse generated for Radar2 at 4.5 second
+1.1609236267027632e-06
+measured_amplitude: -56.662922831279275 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 4.5 second
+theta: 0.7980557152315003
+theta_ml: 0.08726646259971647
+x: 7.271722071542553
+1e-06
+measured_amplitude: -55.2574775184158 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 4.5 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -68.27616958305539 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 4.500999999999993 second
-No pulse generated for Radar2 at 4.5 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -68.20869370229349 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 4.5 second
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072838
+1e-06
+measured_amplitude: -68.49449266517851 decibel, type: <class 'pint.Quantity'>
 Simulating time: 4.6 second
 Next pulse time for Radar1: 4.7 second
 theta: 0.8005230603756122
 theta_ml: 0.08726646259971647
 x: 7.289193221377563
-1.1228888798294908e-06
-measured_amplitude: -55.624863399248184 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 4.70119999999999 second
-No pulse generated for Radar2 at 4.699999999999999 second
+1.1609236267027632e-06
+measured_amplitude: -53.903766985952586 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 4.7 second
+theta: 0.799082053280561
+theta_ml: 0.08726646259971647
+x: 7.27899490427732
+1e-06
+measured_amplitude: -56.71698197377697 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 4.7 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -68.22636104657902 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 4.70119999999999 second
-No pulse generated for Radar2 at 4.699999999999999 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -68.21535234564803 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 4.7 second
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072838
+1e-06
+measured_amplitude: -68.50090166430309 decibel, type: <class 'pint.Quantity'>
 Simulating time: 4.799999999999999 second
 Next pulse time for Radar1: 4.9 second
 theta: 0.8017347380896143
 theta_ml: 0.08726646259971647
 x: 7.297756811542381
-1.1228888798294908e-06
-measured_amplitude: -55.154187325303816 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 4.901199999999988 second
-No pulse generated for Radar2 at 4.899999999999999 second
+1.1609236267027632e-06
+measured_amplitude: -54.44411622606445 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 4.9 second
+theta: 0.8001104452887902
+theta_ml: 0.08726646259971647
+x: 7.286274601259703
+1e-06
+measured_amplitude: -55.369612057052116 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 4.9 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -68.16382304221065 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 4.901199999999988 second
-No pulse generated for Radar2 at 4.899999999999999 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -68.18067379397219 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 4.9 second
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072838
+1e-06
+measured_amplitude: -68.46012644679658 decibel, type: <class 'pint.Quantity'>
 Simulating time: 4.999999999999998 second
 Next pulse time for Radar1: 5.1000000000000005 second
 theta: 0.8029600970587275
 theta_ml: 0.08726646259971647
 x: 7.306406198140938
-1.1228888798294908e-06
-measured_amplitude: -54.187081914227264 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 5.100099999999985 second
-theta: -2.3714567220781935
+1.1609236267027632e-06
+measured_amplitude: -54.31876336171568 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 5.1000000000000005 second
+theta: 0.8011408952463177
 theta_ml: 0.08726646259971647
-x: -7.070964481453213
-1.8e-06
-measured_amplitude: -77.54644076037606 decibel, type: <class 'pint.Quantity'>
+x: 7.2935611368420386
+1e-06
+measured_amplitude: -55.73385419380625 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 5.1000000000000005 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -68.15581199767075 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 5.100099999999985 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -68.1312203648239 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 5.1000000000000005 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.8e-06
-measured_amplitude: -58.877862065058245 decibel, type: <class 'pint.Quantity'>
+x: 7.181400817072838
+1e-06
+measured_amplitude: -68.4377864322077 decibel, type: <class 'pint.Quantity'>
 Simulating time: 5.1999999999999975 second
 Next pulse time for Radar1: 5.3 second
 theta: 0.8041993665716459
 theta_ml: 0.08726646259971647
 x: 7.315142616304425
-1.1228888798294908e-06
-measured_amplitude: -53.56133360060509 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 5.3001999999999825 second
-No pulse generated for Radar2 at 5.299999999999997 second
+1.1609236267027632e-06
+measured_amplitude: -56.10799628443931 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 5.3 second
+theta: 0.8021734071417775
+theta_ml: 0.08726646259971647
+x: 7.30085448506941
+1e-06
+measured_amplitude: -55.51493324281094 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 5.3 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -68.11218052437594 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 5.3001999999999825 second
-No pulse generated for Radar2 at 5.299999999999997 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -68.09345593466203 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 5.3 second
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072838
+1e-06
+measured_amplitude: -68.42229585077654 decibel, type: <class 'pint.Quantity'>
 Simulating time: 5.399999999999997 second
 Next pulse time for Radar1: 5.5 second
 theta: 0.805452780981695
 theta_ml: 0.08726646259971647
 x: 7.3239673234213285
-1.1228888798294908e-06
-measured_amplitude: -55.07979393134088 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 5.50029999999998 second
-No pulse generated for Radar2 at 5.4999999999999964 second
+1.1609236267027632e-06
+measured_amplitude: -53.53232935694312 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 5.5 second
+theta: 0.8032079849621967
+theta_ml: 0.08726646259971647
+x: 7.308154619677742
+1e-06
+measured_amplitude: -54.618553193934865 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 5.5 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -68.08900312200835 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 5.50029999999998 second
-No pulse generated for Radar2 at 5.4999999999999964 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -68.0871277950374 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 5.5 second
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072838
+1e-06
+measured_amplitude: -68.38934130718309 decibel, type: <class 'pint.Quantity'>
 Simulating time: 5.599999999999996 second
 Next pulse time for Radar1: 5.7 second
 theta: 0.8067205798448479
 theta_ml: 0.08726646259971647
 x: 7.332881599588198
-1.1228888798294908e-06
-measured_amplitude: -53.59531586027773 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 5.700399999999977 second
-No pulse generated for Radar2 at 5.699999999999996 second
+1.1609236267027632e-06
+measured_amplitude: -53.670228832802096 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 5.7 second
+theta: 0.8042446326928829
+theta_ml: 0.08726646259971647
+x: 7.315461514091879
+1e-06
+measured_amplitude: -54.30609209359482 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 5.7 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -68.04539617416428 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 5.700399999999977 second
-No pulse generated for Radar2 at 5.699999999999996 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -68.04958688073017 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 5.7 second
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072838
+1e-06
+measured_amplitude: -68.43949805334825 decibel, type: <class 'pint.Quantity'>
 Simulating time: 5.799999999999995 second
 Next pulse time for Radar1: 5.9 second
 theta: 0.8080030080621861
 theta_ml: 0.08726646259971647
 x: 7.341886748069134
-1.1228888798294908e-06
-measured_amplitude: -54.27712382564628 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 5.900499999999974 second
-No pulse generated for Radar2 at 5.899999999999995 second
+1.1609236267027632e-06
+measured_amplitude: -52.6103301668899 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 5.9 second
+theta: 0.8052833543173117
+theta_ml: 0.08726646259971647
+x: 7.32277514142365
+1e-06
+measured_amplitude: -54.19112215854745 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 5.9 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -68.03594355102742 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 5.900499999999974 second
-No pulse generated for Radar2 at 5.899999999999995 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -68.0049131907932 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 5.9 second
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072838
+1e-06
+measured_amplitude: -68.34894561991462 decibel, type: <class 'pint.Quantity'>
 Simulating time: 5.999999999999995 second
 Next pulse time for Radar1: 6.1000000000000005 second
 theta: 0.8093003160269687
 theta_ml: 0.08726646259971647
 x: 7.350984095764034
-1.1228888798294908e-06
-measured_amplitude: -52.811245515512944 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 6.100599999999972 second
-No pulse generated for Radar2 at 6.099999999999994 second
+1.1609236267027632e-06
+measured_amplitude: -53.877436041232585 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 6.1000000000000005 second
+theta: 0.8063241538170117
+theta_ml: 0.08726646259971647
+x: 7.330095474469943
+1e-06
+measured_amplitude: -55.76979080647615 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 6.1000000000000005 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -67.9815630951847 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 6.100599999999972 second
-No pulse generated for Radar2 at 6.099999999999994 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -67.98791136556605 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 6.1000000000000005 second
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072838
+1e-06
+measured_amplitude: -68.36098131930255 decibel, type: <class 'pint.Quantity'>
 Simulating time: 6.199999999999994 second
 Next pulse time for Radar1: 6.3 second
 theta: 0.8106127597764821
 theta_ml: 0.08726646259971647
 x: 7.36017499368569
-1.1228888798294908e-06
-measured_amplitude: -53.88581623996935 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 6.300699999999969 second
-No pulse generated for Radar2 at 6.299999999999994 second
+1.1609236267027632e-06
+measured_amplitude: -53.651276306518795 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 6.3 second
+theta: 0.8073670351714503
+theta_ml: 0.08726646259971647
+x: 7.337422485710769
+1e-06
+measured_amplitude: -54.818880819709996 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 6.3 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -67.93605880414502 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 6.300699999999969 second
-No pulse generated for Radar2 at 6.299999999999994 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -67.95157339078384 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 6.3 second
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072838
+1e-06
+measured_amplitude: -68.35818816835847 decibel, type: <class 'pint.Quantity'>
 Simulating time: 6.399999999999993 second
 Next pulse time for Radar1: 6.5 second
 theta: 0.8119406011488455
 theta_ml: 0.08726646259971647
 x: 7.369460817445745
-1.1228888798294908e-06
-measured_amplitude: -54.42099329370628 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 6.500799999999966 second
-No pulse generated for Radar2 at 6.499999999999993 second
+1.1609236267027632e-06
+measured_amplitude: -53.31788817534 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 6.5 second
+theta: 0.8084120023579164
+theta_ml: 0.08726646259971647
+x: 7.344756147307315
+1e-06
+measured_amplitude: -55.28385136209736 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 6.5 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -67.95734826178172 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 6.500799999999966 second
-No pulse generated for Radar2 at 6.499999999999993 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -67.87047761662122 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 6.5 second
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072838
+1e-06
+measured_amplitude: -68.29974152259491 decibel, type: <class 'pint.Quantity'>
 Simulating time: 6.5999999999999925 second
 Next pulse time for Radar1: 6.7 second
 theta: 0.8132841079449599
 theta_ml: 0.08726646259971647
 x: 7.378842967749568
-1.1228888798294908e-06
-measured_amplitude: -53.376769127876976 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 6.700899999999963 second
-No pulse generated for Radar2 at 6.699999999999992 second
+1.1609236267027632e-06
+measured_amplitude: -52.39975361923268 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 6.7 second
+theta: 0.8094590593514034
+theta_ml: 0.08726646259971647
+x: 7.352096431100003
+1e-06
+measured_amplitude: -56.38529677785973 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 6.7 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -67.87524242650483 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 6.700899999999963 second
-No pulse generated for Radar2 at 6.699999999999992 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -67.87169435116977 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 6.7 second
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072838
+1e-06
+measured_amplitude: -68.32297365810501 decibel, type: <class 'pint.Quantity'>
 Simulating time: 6.799999999999992 second
 Next pulse time for Radar1: 6.9 second
 theta: 0.8146435540957918
 theta_ml: 0.08726646259971647
 x: 7.388322870900058
-1.1228888798294908e-06
-measured_amplitude: -52.79910981762788 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 6.900999999999961 second
-No pulse generated for Radar2 at 6.8999999999999915 second
+1.1609236267027632e-06
+measured_amplitude: -53.36995935815655 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 6.9 second
+theta: 0.8105082101244906
+theta_ml: 0.08726646259971647
+x: 7.359443308606533
+1e-06
+measured_amplitude: -56.24203985312442 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 6.9 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -67.8756615960537 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 6.900999999999961 second
-No pulse generated for Radar2 at 6.8999999999999915 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -67.85336710703376 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 6.9 second
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072838
+1e-06
+measured_amplitude: -68.29051521014472 decibel, type: <class 'pint.Quantity'>
 Simulating time: 6.999999999999991 second
 Next pulse time for Radar1: 7.1000000000000005 second
 theta: 0.8160192198351932
 theta_ml: 0.08726646259971647
 x: 7.397901979310373
-1.1228888798294908e-06
-measured_amplitude: -51.845838106160215 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 7.101099999999958 second
-No pulse generated for Radar2 at 7.099999999999991 second
+1.1609236267027632e-06
+measured_amplitude: -52.64049594824847 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 7.1000000000000005 second
+theta: 0.8115594586472236
+theta_ml: 0.08726646259971647
+x: 7.366796751019936
+1e-06
+measured_amplitude: -54.030951984829294 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 7.1000000000000005 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -67.82134866779012 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 7.101099999999958 second
-No pulse generated for Radar2 at 7.099999999999991 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -67.82746038955725 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 7.1000000000000005 second
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072838
+1e-06
+measured_amplitude: -68.27700751407284 decibel, type: <class 'pint.Quantity'>
 Simulating time: 7.19999999999999 second
 Next pulse time for Radar1: 7.3 second
 theta: 0.8174113918784667
 theta_ml: 0.08726646259971647
 x: 7.407581772025588
-1.1228888798294908e-06
-measured_amplitude: -54.08880379759913 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 7.300199999999955 second
-No pulse generated for Radar2 at 7.29999999999999 second
+1.1609236267027632e-06
+measured_amplitude: -51.69209059055016 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 7.3 second
+theta: 0.8126128088869936
+theta_ml: 0.08726646259971647
+x: 7.374156729206602
+1e-06
+measured_amplitude: -53.50598404054774 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 7.3 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -67.7994876015014 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 7.300199999999955 second
-No pulse generated for Radar2 at 7.29999999999999 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -67.8000459184585 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 7.3 second
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072838
+1e-06
+measured_amplitude: -68.26243135296231 decibel, type: <class 'pint.Quantity'>
 Simulating time: 7.39999999999999 second
 Next pulse time for Radar1: 7.5 second
 theta: 0.8188203636068953
 theta_ml: 0.08726646259971647
 x: 7.417363755253231
-1.1228888798294908e-06
-measured_amplitude: -53.0757865673107 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 7.5001999999999525 second
-No pulse generated for Radar2 at 7.499999999999989 second
+1.1609236267027632e-06
+measured_amplitude: -51.883283804980465 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 7.5 second
+theta: 0.8136682648084158
+theta_ml: 0.08726646259971647
+x: 7.381523213704328
+1e-06
+measured_amplitude: -54.00931461421595 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 7.5 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -67.75953875529673 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 7.5001999999999525 second
-No pulse generated for Radar2 at 7.499999999999989 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -67.78051543555969 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 7.5 second
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072838
+1e-06
+measured_amplitude: -68.24906670917835 decibel, type: <class 'pint.Quantity'>
 Simulating time: 7.599999999999989 second
 Next pulse time for Radar1: 7.7 second
 theta: 0.8202464352584615
 theta_ml: 0.08726646259971647
 x: 7.427249462902655
-1.1228888798294908e-06
-measured_amplitude: -51.56476199476867 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 7.7003999999999495 second
-No pulse generated for Radar2 at 7.699999999999989 second
+1.1609236267027632e-06
+measured_amplitude: -53.59850510661341 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 7.7 second
+theta: 0.8147258303732062
+theta_ml: 0.08726646259971647
+x: 7.388896174720341
+1e-06
+measured_amplitude: -55.16909396296104 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 7.7 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -67.74936058820846 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 7.7003999999999495 second
-No pulse generated for Radar2 at 7.699999999999989 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -67.75245126004978 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 7.7 second
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072838
+1e-06
+measured_amplitude: -68.20829418369256 decibel, type: <class 'pint.Quantity'>
 Simulating time: 7.799999999999988 second
 Next pulse time for Radar1: 7.9 second
 theta: 0.8216899141249958
 theta_ml: 0.08726646259971647
 x: 7.437240457133162
-1.1228888798294908e-06
-measured_amplitude: -52.800062449629756 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 7.900399999999947 second
-No pulse generated for Radar2 at 7.899999999999988 second
+1.1609236267027632e-06
+measured_amplitude: -53.03726494348459 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 7.9 second
+theta: 0.8157855095400579
+theta_ml: 0.08726646259971647
+x: 7.3962755821293245
+1e-06
+measured_amplitude: -53.971697444120586 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 7.9 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -67.71039276273672 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 7.900399999999947 second
-No pulse generated for Radar2 at 7.899999999999988 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -67.69805505716516 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 7.9 second
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072838
+1e-06
+measured_amplitude: -68.16953054414229 decibel, type: <class 'pint.Quantity'>
 Simulating time: 7.999999999999988 second
 Next pulse time for Radar1: 8.1 second
 theta: 0.8231511147559999
 theta_ml: 0.08726646259971647
 x: 7.447338328910785
-1.1228888798294908e-06
-measured_amplitude: -51.54027064472368 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 8.100599999999945 second
-No pulse generated for Radar2 at 8.099999999999987 second
+1.1609236267027632e-06
+measured_amplitude: -53.56545617190463 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 8.1 second
+theta: 0.8168473062645156
+theta_ml: 0.08726646259971647
+x: 7.403661405471448
+1e-06
+measured_amplitude: -55.3197338885873 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 8.1 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -67.66104453279773 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 8.100599999999945 second
-No pulse generated for Radar2 at 8.099999999999987 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -67.69413163512965 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 8.1 second
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072838
+1e-06
+measured_amplitude: -68.1609103979224 decibel, type: <class 'pint.Quantity'>
 Simulating time: 8.199999999999987 second
 Next pulse time for Radar1: 8.3 second
 theta: 0.8246303591694019
 theta_ml: 0.08726646259971647
 x: 7.4575446985735905
-1.1228888798294908e-06
-measured_amplitude: -51.89984882639326 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 8.300599999999942 second
-No pulse generated for Radar2 at 8.299999999999986 second
+1.1609236267027632e-06
+measured_amplitude: -53.61479256066413 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 8.3 second
+theta: 0.8179112244988497
+theta_ml: 0.08726646259971647
+x: 7.411053613950377
+1e-06
+measured_amplitude: -55.025115706778536 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 8.3 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -67.62833172058897 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 8.300599999999942 second
-No pulse generated for Radar2 at 8.299999999999986 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -67.6106036538778 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 8.3 second
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072838
+1e-06
+measured_amplitude: -68.12093845108491 decibel, type: <class 'pint.Quantity'>
 Simulating time: 8.399999999999986 second
 Next pulse time for Radar1: 8.5 second
 theta: 0.8261279770695136
 theta_ml: 0.08726646259971647
 x: 7.467861216405343
-1.1228888798294908e-06
-measured_amplitude: -51.938210873653716 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 8.50079999999994 second
-No pulse generated for Radar2 at 8.499999999999986 second
+1.1609236267027632e-06
+measured_amplitude: -53.04581445808894 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 8.5 second
+theta: 0.8189772681919287
+theta_ml: 0.08726646259971647
+x: 7.418452176431295
+1e-06
+measured_amplitude: -54.057063795010365 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 8.5 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -67.59133963363172 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 8.50079999999994 second
-No pulse generated for Radar2 at 8.499999999999986 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -67.59210973747474 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 8.5 second
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072838
+1e-06
+measured_amplitude: -68.12621104755813 decibel, type: <class 'pint.Quantity'>
 Simulating time: 8.599999999999985 second
 Next pulse time for Radar1: 8.700000000000001 second
 theta: 0.8276443060724692
 theta_ml: 0.08726646259971647
 x: 7.478289563217332
-1.1228888798294908e-06
-measured_amplitude: -51.38397220431245 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 8.700799999999937 second
-No pulse generated for Radar2 at 8.699999999999985 second
+1.1609236267027632e-06
+measured_amplitude: -51.584083361597756 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 8.700000000000001 second
+theta: 0.8200454412890911
+theta_ml: 0.08726646259971647
+x: 7.425857061438911
+1e-06
+measured_amplitude: -54.27752523762591 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 8.700000000000001 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -67.54400229864973 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 8.700799999999937 second
-No pulse generated for Radar2 at 8.699999999999985 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -67.55565191782826 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 8.700000000000001 second
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072838
+1e-06
+measured_amplitude: -68.08834046100179 decibel, type: <class 'pint.Quantity'>
 Simulating time: 8.799999999999985 second
 Next pulse time for Radar1: 8.9 second
 theta: 0.8291796919394372
 theta_ml: 0.08726646259971647
 x: 7.488831450938147
-1.1228888798294908e-06
-measured_amplitude: -52.68196259444457 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 8.900999999999934 second
-No pulse generated for Radar2 at 8.899999999999984 second
+1.1609236267027632e-06
+measured_amplitude: -51.3943455777985 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 8.9 second
+theta: 0.8211157477320151
+theta_ml: 0.08726646259971647
+x: 7.433268237155469
+1e-06
+measured_amplitude: -53.70792968352124 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 8.9 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -67.51509664596061 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 8.900999999999934 second
-No pulse generated for Radar2 at 8.899999999999984 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -67.53793160392974 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 8.9 second
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072838
+1e-06
+measured_amplitude: -68.06396073456882 decibel, type: <class 'pint.Quantity'>
 Simulating time: 8.999999999999984 second
 Next pulse time for Radar1: 9.1 second
 theta: 0.830734488817911
 theta_ml: 0.08726646259971647
 x: 7.499488623211097
-1.1228888798294908e-06
-measured_amplitude: -51.71441059025741 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 9.100999999999932 second
-No pulse generated for Radar2 at 9.099999999999984 second
+1.1609236267027632e-06
+measured_amplitude: -51.16456363214476 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 9.1 second
+theta: 0.8221881914585885
+theta_ml: 0.08726646259971647
+x: 7.440685671418745
+1e-06
+measured_amplitude: -52.768403068386824 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 9.1 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -67.51276757185404 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 9.100999999999932 second
-No pulse generated for Radar2 at 9.099999999999984 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -67.50893444697256 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 9.1 second
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072838
+1e-06
+measured_amplitude: -68.06316427800435 decibel, type: <class 'pint.Quantity'>
 Simulating time: 9.199999999999983 second
 Next pulse time for Radar1: 9.3 second
 theta: 0.8323090594913973
 theta_ml: 0.08726646259971647
 x: 7.510262855999001
-1.1228888798294908e-06
-measured_amplitude: -52.70268524690626 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 9.301199999999929 second
-No pulse generated for Radar2 at 9.299999999999983 second
+1.1609236267027632e-06
+measured_amplitude: -51.023313971235936 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 9.3 second
+theta: 0.8232627764027761
+theta_ml: 0.08726646259971647
+x: 7.448109331720055
+1e-06
+measured_amplitude: -53.38555602658851 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 9.3 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -67.46936387341802 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 9.301199999999929 second
-No pulse generated for Radar2 at 9.299999999999983 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -67.45913730303018 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 9.3 second
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072838
+1e-06
+measured_amplitude: -67.99580851875918 decibel, type: <class 'pint.Quantity'>
 Simulating time: 9.399999999999983 second
 Next pulse time for Radar1: 9.5 second
 theta: 0.8339037756378317
 theta_ml: 0.08726646259971647
-x: 7.521155958195929
-1.1228888798294908e-06
-measured_amplitude: -52.301267376480766 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 9.501199999999926 second
-No pulse generated for Radar2 at 9.499999999999982 second
+x: 7.521155958195931
+1.1609236267027632e-06
+measured_amplitude: -51.773045663982735 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 9.5 second
+theta: 0.8243395064944874
+theta_ml: 0.08726646259971647
+x: 7.455539185202251
+1e-06
+measured_amplitude: -54.20605145210902 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 9.5 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -67.44603175955731 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 9.501199999999926 second
-No pulse generated for Radar2 at 9.499999999999982 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -67.41086997911007 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 9.5 second
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072838
+1e-06
+measured_amplitude: -67.98685016702983 decibel, type: <class 'pint.Quantity'>
 Simulating time: 9.599999999999982 second
 Next pulse time for Radar1: 9.700000000000001 second
 theta: 0.8355190180970694
 theta_ml: 0.08726646259971647
 x: 7.532169772245538
-1.1228888798294908e-06
-measured_amplitude: -52.3374802936951 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 9.700099999999923 second
-theta: -2.3932502211385582
+1.1609236267027632e-06
+measured_amplitude: -50.75849256075778 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 9.700000000000001 second
+theta: 0.8254183856594417
 theta_ml: 0.08726646259971647
-x: -6.91041973312068
-1.8e-06
-measured_amplitude: -76.91252355290675 decibel, type: <class 'pint.Quantity'>
+x: 7.46297519865771
+1e-06
+measured_amplitude: -53.94660535273757 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 9.700000000000001 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -67.42802979344398 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 9.700099999999923 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -67.39045330957703 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 9.700000000000001 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.8e-06
-measured_amplitude: -58.45366580300039 decibel, type: <class 'pint.Quantity'>
+x: 7.181400817072838
+1e-06
+measured_amplitude: -67.98428954316675 decibel, type: <class 'pint.Quantity'>
 Simulating time: 9.799999999999981 second
 Next pulse time for Radar1: 9.9 second
 theta: 0.8371551771478144
 theta_ml: 0.08726646259971647
 x: 7.543306174765473
-1.1228888798294908e-06
-measured_amplitude: -51.46581780293977 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 9.90019999999992 second
-No pulse generated for Radar2 at 9.89999999999998 second
+1.1609236267027632e-06
+measured_amplitude: -52.024461884584 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 9.9 second
+theta: 0.8264994178190329
+theta_ml: 0.08726646259971647
+x: 7.4704173385263255
+1e-06
+measured_amplitude: -53.368616923915475 decibel, type: <class 'pint.Quantity'>
 Next pulse time for Radar1: 9.9 second
 theta: 0.7853981633974483
 theta_ml: 0.08726646259971647
-x: 7.181400817072837
-1.1228888798294908e-06
-measured_amplitude: -67.40165355925309 decibel, type: <class 'pint.Quantity'>
-Next pulse time for Radar2: 9.90019999999992 second
-No pulse generated for Radar2 at 9.89999999999998 second
+x: 7.181400817072838
+1.1609236267027632e-06
+measured_amplitude: -67.35907787286267 decibel, type: <class 'pint.Quantity'>
+Next pulse time for Radar2: 9.9 second
+theta: 0.7853981633974483
+theta_ml: 0.08726646259971647
+x: 7.181400817072838
+1e-06
+measured_amplitude: -67.9592834059533 decibel, type: <class 'pint.Quantity'>
 Simulating time: 9.99999999999998 second
 Next pulse time for Radar1: None
 No pulse generated for Radar1 at 10.09999999999998 second
