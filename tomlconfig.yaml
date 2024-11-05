@@ -1,7 +1,7 @@
 scenario:
   start_time: 0
   end_time: 10
-  time_step: 0.1
+  time_step: 0.001
 
 radars:
   - name: Radar1

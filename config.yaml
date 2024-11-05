@@ -1,6 +1,10 @@
 radars:
 - frequency_params:
     frequency: 15000000000.0
+    frequency_pattern:
+    - 15000000000.0
+    jitter_percentage: 5.0
+    mean_frequency: 15000000000.0
   frequency_type: fixed
   lobe_pattern:
     main_lobe_opening_angle: 5.0
@@ -10,15 +14,25 @@ radars:
   name: Radar1
   power: 1000.0
   pri_params:
+    jitter_percentage: 5.0
+    mean_pri: 0.001
     pri: 0.001
-  pri_type: fixed
+    pri_pattern:
+    - 0.001
+    repetitions:
+    - 1
+  pri_type: stagger
   pulse_width_params:
     jitter_percentage: 4.5
     mean_pulse_width: 1.2e-06
-  pulse_width_type: jitter
+    pulse_width: 1.0e-06
+  pulse_width_type: fixed
   rotation_params:
+    A: 0.1
     T_rot: 2.5
     alpha0: 0.0
+    phi0: 0.0
+    s: 1.0
     t0: 0.0
   rotation_type: constant
   start_position:
@@ -26,10 +40,10 @@ radars:
   - 0
   start_time: 0.0
   velocity:
-  - 10
-  - 10
+  - 0
+  - 0
 - frequency_params:
-    frequency: 15000000000.0
+    frequency: 9400000000.0
   frequency_type: fixed
   lobe_pattern:
     main_lobe_opening_angle: 5.0
@@ -39,29 +53,36 @@ radars:
   name: Radar2
   power: 1000.0
   pri_params:
-    pri: 0.001
-  pri_type: fixed
-  pulse_width_params:
     jitter_percentage: 5.0
-    mean_pulse_width: 1.0e-06
-    pulse_width: 1.0e-06
+    mean_pri: 0.001
+    pri_pattern:
+    - 0.001
+    - 0.0012
+    - 0.0011
+    - 0.0013
+  pri_type: stagger
+  pulse_width_params:
+    pulse_width: 1.8e-06
   pulse_width_type: fixed
   rotation_params:
-    T_rot: 2.5
+    A: 0.1
+    T_rot: 3.0
     alpha0: 0.0
+    phi0: 0.0
+    s: 0.5
     t0: 0.0
-  rotation_type: constant
+  rotation_type: varying
   start_position:
-  - 0
-  - 0
+  - 1000
+  - 1000
   start_time: 0.0
   velocity:
   - 0
   - 0
 scenario:
-  end_time: 10
-  start_time: 0
-  time_step: 0.1
+  end_time: 10.0
+  start_time: 0.0
+  time_step: 0.001
 sensors:
 - amplitude_error:
     arbitrary:
